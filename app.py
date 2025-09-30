@@ -51,11 +51,11 @@ epci_df = load_epci_data()
 
 # Pages
 if "🗺️ Accès aux cartes" in page:
-    import pages.cartes
-    pages.cartes.show(df, epci_df)
-    
+    from pages import cartes
+    cartes.show(df, epci_df)
 elif "📊 Accès aux données brutes" in page:
     import pages.donnees_brutes
 
     pages.donnees_brutes.show(df)
+
 
