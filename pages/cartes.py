@@ -72,8 +72,7 @@ def show(df, epci_df):
             color_continuous_scale="Viridis",
             scope="europe",
             center={"lat": 46.8, "lon": -2.3},
-            title=f"{selected_indicateur} à l'échelle communale pour la date {selected_date_str}",
-            subtitle="unité = unité")
+            title=f"{selected_indicateur} à l'échelle communale pour la date {selected_date_str}")
         
     else:  # EPCI
         filtered_df = epci_df[
@@ -119,4 +118,5 @@ def show(df, epci_df):
         display_df = filtered_df[['libelle_epci', 'code_epci', 'valeur', 'date']].copy()
     
     display_df['date'] = display_df['date'].dt.strftime('%d/%m/%Y')
+
     st.dataframe(display_df, use_container_width=True)
