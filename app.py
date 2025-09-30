@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from PIL import Image
-import pages.cartes
 
 
 # Configuration de la page
@@ -59,3 +58,4 @@ elif "📊 Accès aux données brutes" in page:
     import pages.donnees_brutes
 
     pages.donnees_brutes.show(df)
+
