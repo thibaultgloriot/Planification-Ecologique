@@ -6,7 +6,7 @@ from PIL import Image
 
 # Configuration de la page
 st.set_page_config(
-    page_title="Observatoire des Communes",
+    page_title="Observatoire de la Planification Ecologique en Bretagne",
     page_icon="🗺️",
     layout="wide",
     initial_sidebar_state="collapsed")
@@ -57,5 +57,6 @@ elif "📊 Accès aux données brutes" in page:
     import pages.donnees_brutes
 
     pages.donnees_brutes.show(df)
+
 
 
