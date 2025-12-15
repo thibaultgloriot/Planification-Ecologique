@@ -14,7 +14,7 @@ st.set_page_config(
     initial_sidebar_state="expanded")
 
 # Chargement du logo
-logo = Image.open('assets/logo.jpg')
+logo = Image.open('assets/logo.png')
 
 # Chargement des données
 @st.cache_data
@@ -179,3 +179,4 @@ if selected_module:
             st.write("Cette page est en cours de développement.")
 else:
     st.error("Page non trouvée")
+
