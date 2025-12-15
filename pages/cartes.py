@@ -54,9 +54,6 @@ def show(df, epci_df):
     
     st.title("📊 Visualisation Cartographique des indicateurs de la Planification Ecologique")
     
-    # RÉSOLUTION DU PROBLÈME : les thématiques doivent être les mêmes pour les deux échelles
-    # On prend les thématiques de l'échelle communale comme référence
-    # (ou de l'échelle EPCI si elle n'existe pas)
     if df is not None and 'thematique' in df.columns:
         thematiques = sorted(df['thematique'].dropna().unique())
     elif epci_df is not None and 'thematique' in epci_df.columns:
@@ -71,7 +68,10 @@ def show(df, epci_df):
             "Échelle géographique",
             options=["Commune", "EPCI"],
             horizontal=True,
-            key="carte_radio_echelle"
+            # CLÉ UNIQUE - ajoutez un suffixe basé sur le temps ou un identifiant unique
+            key=f"carte_radio_echelle_{datetime.now().timestamp()}"
+            # OU utilisez simplement une clé différente
+            # key="echelle_geo_selector"
         )
     
     with col2:
@@ -79,7 +79,9 @@ def show(df, epci_df):
             selected_thematique = st.selectbox(
                 "Thématique", 
                 ["Toutes"] + list(thematiques),
-                key="carte_select_thematique"
+                # CLÉ UNIQUE
+                key=f"carte_select_thematique_{datetime.now().timestamp()}"
+                # OU key="thematique_selector"
             )
         else:
             selected_thematique = "Toutes"
@@ -103,7 +105,9 @@ def show(df, epci_df):
             selected_indicateur = st.selectbox(
                 "Indicateur", 
                 indicateurs,
-                key="carte_select_indicateur"
+                # CLÉ UNIQUE
+                key=f"carte_select_indicateur_{datetime.now().timestamp()}"
+                # OU key="indicateur_selector"
             )
         else:
             selected_indicateur = None
@@ -129,7 +133,9 @@ def show(df, epci_df):
                         "Sélectionnez la date",
                         options=dates_options,
                         index=len(dates_options)-1,
-                        key="carte_select_date"
+                        # CLÉ UNIQUE
+                        key=f"carte_select_date_{datetime.now().timestamp()}"
+                        # OU key="date_selector"
                     )
                     selected_date = datetime.strptime(selected_date_str, '%d/%m/%Y')
                 else:
@@ -150,7 +156,9 @@ def show(df, epci_df):
         scale_options = st.selectbox(
             "Échelle de couleur",
             options=["Blues", "Greens", "Darkmint", "ice", "Viridis", "Plasma"],
-            key="carte_select_scale"
+            # CLÉ UNIQUE
+            key=f"carte_select_scale_{datetime.now().timestamp()}"
+            # OU key="color_scale_selector"
         )
     
     with col_scale2:
@@ -161,15 +169,18 @@ def show(df, epci_df):
                 "Percentiles (5-95%)", 
                 "Moyenne ± 2 écarts-types"
             ],
-            key="carte_select_stat_scale"
+            # CLÉ UNIQUE
+            key=f"carte_select_stat_scale_{datetime.now().timestamp()}"
+            # OU key="stat_scale_selector"
         )
     
     with col_scale3:
         reverse_scale = st.checkbox(
             "Inverser l'échelle de couleur",
-            key="carte_checkbox_reverse"
+            # CLÉ UNIQUE
+            key=f"carte_checkbox_reverse_{datetime.now().timestamp()}"
+            # OU key="reverse_scale_checkbox"
         )
-    
     # Filtrage des données selon l'échelle
     if echelle == "Commune":
         filtered_df = df[
@@ -310,3 +321,4 @@ def show(df, epci_df):
     display_df['date'] = display_df['date'].dt.strftime('%d/%m/%Y')
     
     st.dataframe(display_df, use_container_width=True, key="carte_dataframe")
+
