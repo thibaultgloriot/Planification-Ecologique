@@ -72,7 +72,7 @@ def show(df, epci_df):
     # Charger les sources des indicateurs
     indicator_sources = load_indicator_sources()
     
-    st.title("📊 Visualisation Cartographique des indicateurs de l'ORTB")
+    st.title("📊 Visualisation Cartographique des indicateurs de la Planification Ecologique")
     
     # Obtenir les thématiques communes
     common_themes = get_common_themes(df, epci_df)
@@ -314,3 +314,4 @@ def show(df, epci_df):
     display_df['date'] = display_df['date'].dt.strftime('%d/%m/%Y')
     
     st.dataframe(display_df, use_container_width=True, key="carte_dataframe")
+
