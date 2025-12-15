@@ -21,72 +21,56 @@ def show(df, epci_df):
         else:
             st.metric("Période couverte", f"{df['date'].min().year}-{df['date'].max().year}")
     
-    # Liste des indicateurs disponibles par thématique
+    # Liste des indicateurs disponibles
     st.subheader("📋 Indicateurs disponibles par thématique")
     
-    # Créer un dictionnaire pour regrouper les indicateurs par thématique
-    indicateurs_par_thematique = {}
+    # Récupérer toutes les thématiques uniques des deux sources
+    all_thematiques = set()
     
-    # Ajouter les indicateurs des communes
+    # Ajouter les thématiques des communes
     if 'thematique' in df.columns:
-        # Nettoyer les données : supprimer les lignes où thématique ou indicateur est NaN
-        df_clean = df.dropna(subset=['thematique', 'indicateur'])
-        
-        for thematique in sorted(df_clean['thematique'].unique()):
-            if thematique not in indicateurs_par_thematique:
-                indicateurs_par_thematique[thematique] = {'communes': set(), 'epci': set()}
-            
-            indicateurs = df_clean[df_clean['thematique'] == thematique]['indicateur'].unique()
-            indicateurs_par_thematique[thematique]['communes'].update(indicateurs)
+        # Filtrer les valeurs non nulles
+        themes_communes = [t for t in df['thematique'].dropna().unique() if str(t).strip() != '']
+        all_thematiques.update(themes_communes)
     
-    # Ajouter les indicateurs des EPCI
+    # Ajouter les thématiques des EPCI
     if 'thematique' in epci_df.columns:
-        # Nettoyer les données : supprimer les lignes où thématique ou indicateur est NaN
-        epci_df_clean = epci_df.dropna(subset=['thematique', 'indicateur'])
-        
-        for thematique in sorted(epci_df_clean['thematique'].unique()):
-            if thematique not in indicateurs_par_thematique:
-                indicateurs_par_thematique[thematique] = {'communes': set(), 'epci': set()}
-            
-            indicateurs = epci_df_clean[epci_df_clean['thematique'] == thematique]['indicateur'].unique()
-            indicateurs_par_thematique[thematique]['epci'].update(indicateurs)
+        # Filtrer les valeurs non nulles
+        themes_epci = [t for t in epci_df['thematique'].dropna().unique() if str(t).strip() != '']
+        all_thematiques.update(themes_epci)
     
-    # Afficher les indicateurs par thématique
-    if indicateurs_par_thematique:
-        for thematique in sorted(indicateurs_par_thematique.keys()):
+    # Afficher par thématique si disponible
+    if all_thematiques:
+        for thematique in sorted(all_thematiques):
             with st.expander(f"{thematique}"):
-                # Récupérer tous les indicateurs uniques pour cette thématique (des deux sources)
-                tous_indicateurs = sorted(
-                    indicateurs_par_thematique[thematique]['communes'].union(
-                        indicateurs_par_thematique[thematique]['epci']
-                    )
-                )
+                # Collecter tous les indicateurs uniques pour cette thématique
+                indicateurs = set()
                 
-                for ind in tous_indicateurs:
-                    # Vérifier dans quelle(s) source(s) l'indicateur est présent
-                    sources = []
-                    if ind in indicateurs_par_thematique[thematique]['communes']:
-                        sources.append("communes")
-                    if ind in indicateurs_par_thematique[thematique]['epci']:
-                        sources.append("EPCI")
-                    
-                    # Afficher l'indicateur avec sa/ ses source(s)
-                    if len(sources) == 2:
-                        st.write(f"• {ind} (disponible aux deux échelles)")
-                    elif sources[0] == "communes":
-                        st.write(f"• {ind} (échelle communale uniquement)")
-                    else:
-                        st.write(f"• {ind} (échelle EPCI uniquement)")
+                # Indicateurs des communes
+                if 'thematique' in df.columns:
+                    mask = (df['thematique'].notna()) & (df['thematique'] == thematique)
+                    if mask.any():
+                        indicateurs.update(df[mask]['indicateur'].dropna().unique())
+                
+                # Indicateurs des EPCI
+                if 'thematique' in epci_df.columns:
+                    mask = (epci_df['thematique'].notna()) & (epci_df['thematique'] == thematique)
+                    if mask.any():
+                        indicateurs.update(epci_df[mask]['indicateur'].dropna().unique())
+                
+                # Afficher tous les indicateurs
+                for ind in sorted(indicateurs):
+                    st.write(f"• {ind}")
     else:
         # Fallback si pas de colonne thématique
-        st.info("Aucune thématique définie dans les données.")
+        st.write("**Tous les indicateurs :**")
         
         # Indicateurs des communes
-        st.markdown("**Indicateurs communaux:**")
-        for ind in sorted(df['indicateur'].unique()):
-            st.write(f"• {ind}")
+        if 'indicateur' in df.columns:
+            for ind in sorted(df['indicateur'].dropna().unique()):
+                st.write(f"• {ind}")
         
-        # Indicateurs des EPCI
-        st.markdown("**Indicateurs EPCI:**")
-        for ind in sorted(epci_df['indicateur'].unique()):
-            st.write(f"• {ind}")
+        # Indicateurs des EPCI  
+        if 'indicateur' in epci_df.columns:
+            for ind in sorted(epci_df['indicateur'].dropna().unique()):
+                st.write(f"• {ind}")
