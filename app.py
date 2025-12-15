@@ -122,7 +122,7 @@ with st.sidebar:
     st.subheader("📊 Informations")
     
     if df is not None and not df.empty:
-        st.caption(f"Données mises à jour le: {df['date'].max().strftime('%d/%m/%Y')}")
+        st.caption(f"Données mises à jour le: 15/12/2025")
         st.caption(f"Indicateurs communaux: {df['indicateur'].nunique()}")
     
     if epci_df is not None and not epci_df.empty:
@@ -179,4 +179,5 @@ if selected_module:
             st.write("Cette page est en cours de développement.")
 else:
     st.error("Page non trouvée")
+
 
