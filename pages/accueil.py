@@ -10,7 +10,7 @@ def show(df, epci_df):
     with col1:
         st.metric("Nombre d'indicateurs à l'échelle commune", df['indicateur'].nunique())
     with col2:
-        st.metric("Nombre d'indicateurs à l'échelle EPCI", df_epci['indicateur'].nunique())
+        st.metric("Nombre d'indicateurs à l'échelle EPCI", epci_df['indicateur'].nunique())
     
     with col3:
         st.metric("Nombre de communes", df['code_commune'].nunique())
@@ -34,4 +34,5 @@ def show(df, epci_df):
         for ind in sorted(epci_df['indicateur'].unique()):
 
             st.write(f"• {ind}")
+
 
