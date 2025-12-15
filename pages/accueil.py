@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 def show(df, epci_df):
-    st.title("🏠 Tableau de bord - Observatoire Régional")
+    st.title("🏠 Tableau de bord - Observatoire Régional de la Planification Ecologique")
     
     # KPI globaux
     col1, col2, col3 = st.columns(3)
@@ -32,4 +32,5 @@ def show(df, epci_df):
         for ind in sorted(df['indicateur'].unique()):
 
             st.write(f"• {ind}")
+
 
