@@ -64,3 +64,4 @@ elec_renewable;Production annuelle d’ENR du territoire hors hydroélectrique (
 elec_Part_Electricite_Renouvelable;Part de la Production annuelle d’ENR du territoire hors hydroélectrique dans la production annuelle d’énergie (%);Energie;OEB
 points_de_charge_IRVE_total;Points de recharge pour véhicules électriques;Transports;Tableau de bord des mobilités durables
 points_de_charge_IRVE_pour1000hab;Points de recharge pour véhicules électriques pour 1000 habitants;Transports;Tableau de bord des mobilités durables
+Artificialisation_espaces_NAF;Artificialisation des espaces NAF (ha);Bâtiment;OEB
