@@ -23,7 +23,7 @@ def show():
     
     ### Contact
     Pour toute question ou suggestion :
-    - Email : thibault.gloriot@developpement-durable.gouve.fr ou cpros.coprev.dreal-bretagne@developpement-durable.gouv.fr
+    - Email : thibault.gloriot@developpement-durable.gouv.fr ou cpros.coprev.dreal-bretagne@developpement-durable.gouv.fr
     - Tél : 06 59 61 63 54
     
     ### Version
@@ -51,5 +51,6 @@ def show():
         - **Hébergement** : Streamlit Cloud
 
         """)
+
 
 
