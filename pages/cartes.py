@@ -48,34 +48,21 @@ def get_scale_options(df, column):
     
     return linear_scale, percentile_scale, std_scale
 
-def get_common_themes(df, epci_df):
-    """Récupère les thématiques communes entre les deux échelles"""
-    themes_communes = set()
-    themes_epci = set()
-    
-    if df is not None and 'thematique' in df.columns:
-        themes_communes = set(df['thematique'].dropna().unique())
-    
-    if epci_df is not None and 'thematique' in epci_df.columns:
-        themes_epci = set(epci_df['thematique'].dropna().unique())
-    
-    # Retourne les thématiques communes et celles spécifiques à chaque échelle
-    themes_communs = themes_communes.intersection(themes_epci)
-    
-    # Si pas de thématiques communes, on utilise celles de l'échelle sélectionnée
-    if not themes_communs:
-        return sorted(themes_communes) if themes_communes else sorted(themes_epci)
-    
-    return sorted(themes_communs)
-
 def show(df, epci_df):
     # Charger les sources des indicateurs
     indicator_sources = load_indicator_sources()
     
     st.title("📊 Visualisation Cartographique des indicateurs de la Planification Ecologique")
     
-    # Obtenir les thématiques communes
-    common_themes = get_common_themes(df, epci_df)
+    # RÉSOLUTION DU PROBLÈME : les thématiques doivent être les mêmes pour les deux échelles
+    # On prend les thématiques de l'échelle communale comme référence
+    # (ou de l'échelle EPCI si elle n'existe pas)
+    if df is not None and 'thematique' in df.columns:
+        thematiques = sorted(df['thematique'].dropna().unique())
+    elif epci_df is not None and 'thematique' in epci_df.columns:
+        thematiques = sorted(epci_df['thematique'].dropna().unique())
+    else:
+        thematiques = ['Tous']
     
     col1, col2, col3, col4 = st.columns([1, 0.7, 1.5, 0.6])
     
@@ -88,62 +75,71 @@ def show(df, epci_df):
         )
     
     with col2:
-        if len(common_themes) > 0:
+        if len(thematiques) > 1:
             selected_thematique = st.selectbox(
                 "Thématique", 
-                ["Toutes"] + list(common_themes),
+                ["Toutes"] + list(thematiques),
                 key="carte_select_thematique"
             )
         else:
             selected_thematique = "Toutes"
-            st.info("Aucune thématique disponible")
     
     with col3:
-        # Filtrer les indicateurs en fonction de l'échelle et de la thématique
+        # Sélection du DataFrame à utiliser
         if echelle == "Commune":
             df_to_use = df
         else:
-            df_to_use = epci_df if epci_df is not None else pd.DataFrame()
+            df_to_use = epci_df
         
         # Filtrer par thématique si nécessaire
         if selected_thematique != "Toutes" and 'thematique' in df_to_use.columns:
             filtered_df = df_to_use[df_to_use['thematique'] == selected_thematique]
-            indicateurs = filtered_df['indicateur'].unique()
+            indicateurs = sorted(filtered_df['indicateur'].unique())
         else:
-            indicateurs = df_to_use['indicateur'].unique() if not df_to_use.empty else []
+            indicateurs = sorted(df_to_use['indicateur'].unique()) if not df_to_use.empty else []
         
-        selected_indicateur = st.selectbox(
-            "Indicateur", 
-            indicateurs if len(indicateurs) > 0 else ["Aucun indicateur disponible"],
-            key="carte_select_indicateur"
-        )
+        # Vérifier si des indicateurs sont disponibles
+        if len(indicateurs) > 0:
+            selected_indicateur = st.selectbox(
+                "Indicateur", 
+                indicateurs,
+                key="carte_select_indicateur"
+            )
+        else:
+            selected_indicateur = None
+            st.warning("Aucun indicateur disponible pour cette thématique et échelle")
     
     with col4:
-        # Gérer les dates disponibles
-        if echelle == "Commune":
-            df_to_use = df
-        else:
-            df_to_use = epci_df if epci_df is not None else df
-        
-        if not df_to_use.empty and selected_indicateur != "Aucun indicateur disponible":
-            dates_disponibles = sorted(
-                df_to_use[df_to_use['indicateur'] == selected_indicateur]['date'].unique()
-            )
-            
-            if len(dates_disponibles) > 0:
-                dates_options = [date.strftime('%d/%m/%Y') for date in dates_disponibles]
-                selected_date_str = st.selectbox(
-                    "Sélectionnez la date",
-                    options=dates_options,
-                    index=len(dates_options)-1,
-                    key="carte_select_date"
-                )
-                selected_date = datetime.strptime(selected_date_str, '%d/%m/%Y')
+        # Gérer les dates disponibles seulement si un indicateur est sélectionné
+        if selected_indicateur is not None:
+            if echelle == "Commune":
+                df_to_use = df
             else:
-                st.warning("Aucune date disponible pour cet indicateur")
+                df_to_use = epci_df if epci_df is not None else df
+            
+            # Filtrer pour l'indicateur sélectionné
+            indicateur_df = df_to_use[df_to_use['indicateur'] == selected_indicateur]
+            
+            if len(indicateur_df) > 0:
+                dates_disponibles = sorted(indicateur_df['date'].unique())
+                
+                if len(dates_disponibles) > 0:
+                    dates_options = [date.strftime('%d/%m/%Y') for date in dates_disponibles]
+                    selected_date_str = st.selectbox(
+                        "Sélectionnez la date",
+                        options=dates_options,
+                        index=len(dates_options)-1,
+                        key="carte_select_date"
+                    )
+                    selected_date = datetime.strptime(selected_date_str, '%d/%m/%Y')
+                else:
+                    st.warning("Aucune date disponible pour cet indicateur")
+                    return
+            else:
+                st.warning("Indicateur non trouvé dans les données")
                 return
         else:
-            st.warning("Veuillez sélectionner un indicateur")
+            st.warning("Sélectionnez d'abord un indicateur")
             return
     
     # Nouvelle section pour les options d'échelle
@@ -314,4 +310,3 @@ def show(df, epci_df):
     display_df['date'] = display_df['date'].dt.strftime('%d/%m/%Y')
     
     st.dataframe(display_df, use_container_width=True, key="carte_dataframe")
-
