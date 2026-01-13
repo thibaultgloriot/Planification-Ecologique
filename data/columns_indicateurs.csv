@@ -59,9 +59,6 @@ Part_SAU_bio;Part de la SAU du territoire en bio (%);Agriculture;Ecologie data g
 Etat_Ecologique_Cours_deau;Qualité écologique globale des cours d’eau (de 1 à 5);Eau;OEB
 lineaire_cyclable_securise_total;Linéaire cyclable sécurisé sur le territoire (km);Transports;Tableau de bord des mobilités durables
 lineaire_cyclable_securise_pour1000hab;Linéaire cyclable sécurisé pour 1000 habitants (km/1000hab);Transports;Tableau de bord des mobilités durables
-elec_total;Production annuelle d’électricité du territoire (MWh / an);Energie;OEB
-elec_renewable;Production annuelle d’ENR du territoire hors hydroélectrique (MWh / an);Energie;OEB
-elec_Part_Electricite_Renouvelable;Part de la Production annuelle d’ENR du territoire hors hydroélectrique dans la production annuelle d’énergie (%);Energie;OEB
 points_de_charge_IRVE_total;Points de recharge pour véhicules électriques;Transports;Tableau de bord des mobilités durables
 points_de_charge_IRVE_pour1000hab;Points de recharge pour véhicules électriques pour 1000 habitants;Transports;Tableau de bord des mobilités durables
 Artificialisation_espaces_NAF;Artificialisation des espaces NAF (ha);Bâtiment;OEB
