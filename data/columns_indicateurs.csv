@@ -1,6 +1,5 @@
 Indicateur;Nouveau_nom_indicateur;Thématique;Source
 Artificialisation des espaces NAF (ha);Artificialisation des espaces NAF (ha);Bâtiment;OEB
-Artificialisation_espaces_NAF;Artificialisation des espaces NAF (ha);Bâtiment;OEB
 CH4;Émissions de CH4 tout secteur confondu (TeqCO2/an);Transverse;OEB  / Terristory
 CH4_Agriculture;Emissions de CH4 du secteur de l'agriculture (TeqCO2/an);Agriculture;OEB  / Terristory
 CH4_Dechets;Emissions de CH4 du secteur des déchets (TeqCO2/an);Économie Circulaire;OEB  / Terristory
@@ -24,8 +23,7 @@ CO2_indirect_Residentiel;Emissions de CO2 indirect du secteur résidentiel (TeqC
 CO2_indirect_Tertiaire;Emissions de CO2 indirect du secteur tertiaire (TeqCO2/an);Bâtiment;OEB  / Terristory
 CO2_indirect_Transports;Emissions de CO2 indirect du secteur des transports (TeqCO2/an);Transports;OEB  / Terristory
 Consommation électrique annuelle du territoire (MWh / an) ;Consommation électrique annuelle du territoire (MWh / an) ;Énergie;OEB
-consommation_elec;Consommation électrique annuelle du territoire (MWh / an) ;Énergie;OEB  / Terristory
-Etat_Ecologique_Cours_deau;Qualité écologique globale des cours d’eau (de 1 à 5);Eau;OEB
+Qualité écologique globale des cours d’eau (de 1 à 5);Qualité écologique globale des cours d’eau (de 1 à 5);Eau;OEB
 Fluorés;Émissions de Fluorés tout secteur confondu (TeqCO2/an);Transverse;OEB  / Terristory
 Fluores_Dechets;Emissions de Fluorés du secteur des déchets (TeqCO2/an);Économie Circulaire;OEB  / Terristory
 Fluores_Industrie;Emissions de Fluorés du secteur de l'industrie (TeqCO2/an);Industrie;OEB  / Terristory
@@ -44,8 +42,6 @@ GES_Transports;Emissions de GES du secteur des transports (TeqCO2/an);Transports
 Indicateur de fragmentation mesh des milieux naturels (sans unité);Indicateur de fragmentation mesh des milieux naturels (sans unité);Bâtiment;Cerema
 Linéaire cyclable sécurisé pour 1000 habitants (km/1000hab);Linéaire cyclable sécurisé pour 1000 habitants (km/1000hab);Transports;Tableau de bord des mobilités durables
 Linéaire cyclable sécurisé sur le territoire (km);Linéaire cyclable sécurisé sur le territoire (km);Transports;Tableau de bord des mobilités durables
-lineaire_cyclable_securise_pour1000hab;Linéaire cyclable sécurisé pour 1000 habitants (km/1000hab);Transports;Tableau de bord des mobilités durables
-lineaire_cyclable_securise_total;Linéaire cyclable sécurisé sur le territoire (km);Transports;Tableau de bord des mobilités durables
 N2O;Émissions de N2O tout secteur confondu (TeqCO2/an);Transverse;OEB  / Terristory
 N2O_Agriculture;Emissions de N2O du secteur de l'agriculture (TeqCO2/an);Agriculture;OEB  / Terristory
 N2O_Dechets;Emissions de N2O du secteur des déchets (TeqCO2/an);Économie Circulaire;OEB  / Terristory
@@ -66,8 +62,6 @@ Part_modale_tc_mode_actif;Part modale des déplacements domicile-travail effectu
 Part_SAU_bio;Part de la SAU du territoire en bio (%);Agriculture;Ecologie data gouv
 Points de recharge pour véhicules électriques;Points de recharge pour véhicules électriques;Transports;Tableau de bord des mobilités durables
 Points de recharge pour véhicules électriques pour 1000 habitants;Points de recharge pour véhicules électriques pour 1000 habitants;Transports;Tableau de bord des mobilités durables
-points_de_charge_IRVE_pour1000hab;Points de recharge pour véhicules électriques pour 1000 habitants;Transports;Tableau de bord des mobilités durables
-points_de_charge_IRVE_total;Points de recharge pour véhicules électriques;Transports;Tableau de bord des mobilités durables
 Production annuelle d’électricité du territoire (MWh / an);Production annuelle d’électricité du territoire (MWh / an);Énergie;OEB
 Production annuelle d’ENR du territoire hors hydroélectrique (MWh / an);Production annuelle d’ENR du territoire hors hydroélectrique (MWh / an);Énergie;OEB
 Production d'électricité fossile (Mwh);Production d'électricité fossile (Mwh);Énergie;OEB  / Terristory
@@ -77,7 +71,7 @@ Production d'électricité par incinérations de déchets (Mwh);Puissance instal
 Production d'électricité par méthanisation (Mwh);Production d'électricité par méthanisation (Mwh);Énergie;OEB  / Terristory
 Production d'électricité par panneaux solaires photovoltaïques (Mwh);Production d'électricité par panneaux solaires photovoltaïques (Mwh);Énergie;OEB  / Terristory
 Production d'électricité par panneaux solaires thermiques (Mwh);Production d'électricité par incinérations de déchets (Mwh);Énergie;OEB  / Terristory
-Production d'hydroeléctricité (Mwh);Production d’hydroélectricité (Mwh);Énergie;OEB  / Terristory
+Production d’hydroélectricité (Mwh);Production d’hydroélectricité (Mwh);Énergie;OEB  / Terristory
 Production de chaleur bois domestique et chaufferie (Mwh);Production de chaleur bois domestique et chaufferie (Mwh);Énergie;OEB  / Terristory
 Production de chaleur fossile (Mwh);Production de chaleur fossile (Mwh);Énergie;OEB  / Terristory
 Production de chaleur par incinérations de déchets (Mwh);Production de chaleur par incinérations de déchets (Mwh);Énergie;OEB  / Terristory
@@ -90,10 +84,11 @@ Production totale d'énergie renouvelable (Mwh);Production totale d'énergie ren
 Production totale de chaleur (Mwh);Production totale de chaleur (Mwh);Énergie;OEB  / Terristory
 Production totale de chaleur renouvelable (Mwh);Production totale de chaleur renouvelable (Mwh);Énergie;OEB  / Terristory
 Puissance installée d'électricité par éolien en mer (kw);Puissance installée d'électricité par éolien en mer (kw);Énergie;OEB  / Terristory
-Puissance installée d'électricité par éolien terrestre (kw);Consommation électrique annuelle du territoire (MWh / an);Énergie;OEB  / Terristory
+Puissance installée d'électricité par éolien terrestre (kw);Puissance installée d'électricité par éolien terrestre (kw);Énergie;OEB  / Terristory
 Puissance installée d'électricité par panneaux solaires photovoltaïques (kw);Puissance installée d'électricité par panneaux solaires photovoltaïques (kw);Énergie;OEB  / Terristory
 Puissance installée d'électricité par panneaux solaires thermiques (kw);Puissance installée d'électricité par panneaux solaires thermiques (kw);Énergie;OEB  / Terristory
-Puissance installée d'hydroeléctricité (kw);Puissance installée d'hydroélectricité (kw);Énergie;OEB  / Terristory
+Puissance installée d'hydroélectricité (kw);Puissance installée d'hydroélectricité (kw);Énergie;OEB  / Terristory
 Taux d’approvisionnement en produits biologiques dans la restauration collective;Taux d’approvisionnement en produits biologiques dans la restauration collective;Agriculture;Ecolab
 Taux d’approvisionnement en produits durables et de qualité dans la restauration collective, dont produits bio;Taux d’approvisionnement en produits durables et de qualité dans la restauration collective, dont produits bio;Agriculture;Ecolab
 Tonnage_DMA;Tonnage annuel de DMA dont gravats collectés par habitant (kg/hab/an);Économie Circulaire;OEB
+Production de Biométhane (Mwh);Production de Biométhane (Mwh);Énergie;OEB  / Terristory
