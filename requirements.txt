@@ -2,5 +2,6 @@ plotly
 pandas
 requests
 datetime
-streamlit
-
+streamlit>1.21
+altair<5
+standard-imghdr
