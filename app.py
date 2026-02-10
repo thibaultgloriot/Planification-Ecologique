@@ -51,7 +51,7 @@ epci_df = load_epci_data()
 
 # Charger le mapping des indicateurs
 try:
-    mapping_df = pd.read_csv("data/columns_indicateurs.csv", sep=";")
+    mapping_df = pd.read_csv("data/columns_indicateurs.csv", sep=",")
 except:
     # Créer un mapping par défaut si le fichier n'existe pas
     mapping_df = pd.DataFrame({
@@ -197,3 +197,4 @@ if selected_module:
             st.write("Cette page est en cours de développement.")
 else:
     st.error("Page non trouvée")
+
