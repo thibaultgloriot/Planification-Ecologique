@@ -15,7 +15,7 @@ def load_geojson(filepath):
 def load_indicator_sources():
     """Charge les sources des indicateurs depuis le fichier CSV"""
     try:
-        sources_df = pd.read_csv("data/columns_indicateurs.csv", sep=";")
+        sources_df = pd.read_csv("data/columns_indicateurs.csv", sep=",")
         # Créer un dictionnaire indicateur -> source
         # Utiliser 'Nouveau_nom_indicateur' si disponible, sinon 'Indicateur'
         if 'Nouveau_nom_indicateur' in sources_df.columns:
@@ -314,3 +314,4 @@ def show(df, epci_df):
     display_df['date'] = display_df['date'].dt.strftime('%d/%m/%Y')
     
     st.dataframe(display_df, use_container_width=True, key="carte_dataframe")
+
