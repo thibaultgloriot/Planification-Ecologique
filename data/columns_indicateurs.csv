@@ -11,7 +11,7 @@ Artificialisation des espaces NAF (ha),Artificialisation des espaces NAF (ha),B�
 Émissions de CO2 direct tout secteur confondu (TeqCO2/an),Émissions de CO2 direct tout secteur confondu (TeqCO2/an),Transverse,OEB  / Terristory
 Émissions de CO2 direct par le secteur de l’agriculture (TeqCO2/an),Émissions de CO2 direct par le secteur de l'agriculture (TeqCO2/an),Agriculture,OEB  / Terristory
 Émissions de CO2 direct par le secteur des déchets (TeqCO2/an),Émissions de CO2 direct par le secteur des déchets (TeqCO2/an),Économie Circulaire,OEB  / Terristory
-Émissions de CO2 direct par le secteur de l’énergie (TeqCO2/an),Émissions de CO2 direct par le secteur de l'énergie (TeqCO2/an),Énergie,OEB  / Terristory
+Émissions de CO2 direct par le secteur de l’énergie(TeqCO2/an),Émissions de CO2 direct par le secteur de l'énergie (TeqCO2/an),Énergie,OEB  / Terristory
 Émissions de CO2 direct par le secteur de l’industrie (TeqCO2/an),Émissions de CO2 direct par le secteur de l'industrie (TeqCO2/an),Industrie,OEB  / Terristory
 Émissions de CO2 direct par le secteur résidentiel (TeqCO2/an),Émissions de CO2 direct par le secteur résidentiel (TeqCO2/an),Bâtiment,OEB  / Terristory
 Émissions de CO2 direct par le secteur tertiaire (TeqCO2/an),Émissions de CO2 direct par le secteur tertiaire (TeqCO2/an),Bâtiment,OEB  / Terristory
@@ -106,5 +106,6 @@ Part de nouveaux logements créés collectivement sur total autorisés(%),Part d
 Prélèvements d'eau sur le territoire(m3),Prélèvements d'eau sur le territoire(m3),Eau,ecologie.data.gouv
 Volume de chaleur livrée par les réseaux de chaleur (TWh),Volume de chaleur livrée par les réseaux de chaleur (TWh),Énergie,ecologie.data.gouv
 Surface en agriculture biologique (certifiées bio ou en conversion) (ha),Surface en agriculture biologique (certifiées bio ou en conversion) (ha),Agriculture,ecologie.data.gouv
+
 
 
