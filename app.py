@@ -8,7 +8,7 @@ import os
 
 # Configuration de la page
 st.set_page_config(
-    page_title="Plateforme de visualisation des données de l'ORTB",
+    page_title="Observatoire de la Planification Ecologique en Bretagne",
     page_icon="🗺️",
     layout="wide",
     initial_sidebar_state="expanded")
