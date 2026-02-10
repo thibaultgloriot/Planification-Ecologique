@@ -28,7 +28,7 @@ Qualité écologique globale des cours d’eau (de 1 à 5),Qualité écologique 
 Émissions de Fluorés par le secteur des déchets (TeqCO2/an),Émissions de Fluorés du secteur des déchets (TeqCO2/an),Économie Circulaire,OEB  / Terristory
 Émissions de Fluorés par le secteur de l’industrie (TeqCO2/an),Émissions de Fluorés du secteur de l'industrie (TeqCO2/an),Industrie,OEB  / Terristory
 Émissions de Fluorés par le secteur résidentiel (TeqCO2/an),Émissions de Fluorés du secteur résidentiel (TeqCO2/an),Bâtiment,OEB  / Terristory
-Émissions de Fluorés par le secteur tertiaire (TeqCO2/an),Émissions de Fluorés du secteur tertiaire (TeqCO2/an),Bâtiment,OEB  / Terristory
+Émissions de Fluorés par le secteur Tertiaire (TeqCO2/an),Émissions de Fluorés du secteur tertiaire (TeqCO2/an),Bâtiment,OEB  / Terristory
 Émissions de Fluorés par le secteur des transports (TeqCO2/an),Émissions de Fluorés du secteur des transports (TeqCO2/an),Transports,OEB  / Terristory
 Indicateur de fragmentation mesh des milieux naturels (sans unité),Indicateur de fragmentation mesh des milieux naturels (sans unité),Bâtiment,Cerema
 Émissions de GES par le secteur de l’agriculture (TeqCO2/an),Émissions de GES par le secteur de l'agriculture (TeqCO2/an),Agriculture,OEB  / Terristory
@@ -39,6 +39,7 @@ Indicateur de fragmentation mesh des milieux naturels (sans unité),Indicateur d
 Émissions de GES par le secteur des transports (TeqCO2/an),Émissions de GES par le secteur des transports (TeqCO2/an),Bâtiment,OEB  / Terristory
 Émissions de GES tout secteur confondu (TeqCO2/an),Émissions de GES tout secteur confondu (TeqCO2/an),Transverse,OEB  / Terristory
 Émissions de GES par le secteur des transports (TeqCO2/an),Émissions de GES par le secteur des transports (TeqCO2/an),Transports,OEB  / Terristory
+Émissions de GES par le secteur tertiaire (TeqCO2/an),Émissions de GES par le secteur tertiaire (TeqCO2/an),Transports,OEB  / Terristory
 Indicateur de fragmentation mesh des milieux naturels (sans unité),Indicateur de fragmentation mesh des milieux naturels (sans unité),Bâtiment,Cerema
 Linéaire cyclable sécurisé pour 1000 habitants (km/1000hab),Linéaire cyclable sécurisé pour 1000 habitants (km/1000hab),Transports,Tableau de bord des mobilités durables
 Linéaire cyclable sécurisé sur le territoire (km),Linéaire cyclable sécurisé sur le territoire (km),Transports,Tableau de bord des mobilités durables
@@ -105,4 +106,5 @@ Part de nouveaux logements créés collectivement sur total autorisés(%),Part d
 Prélèvements d'eau sur le territoire(m3),Prélèvements d'eau sur le territoire(m3),Eau,ecologie.data.gouv
 Volume de chaleur livrée par les réseaux de chaleur (TWh),Volume de chaleur livrée par les réseaux de chaleur (TWh),Énergie,ecologie.data.gouv
 Surface en agriculture biologique (certifiées bio ou en conversion) (ha),Surface en agriculture biologique (certifiées bio ou en conversion) (ha),Agriculture,ecologie.data.gouv
+
 
