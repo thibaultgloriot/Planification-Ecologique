@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 def show(data):
-    st.title("🏠 Tableau de bord - Observatoire Régional de la Planification Ecologique
+    st.title("🏠 Tableau de bord - Observatoire Régional de la Planification Ecologique")
     
     # KPI globaux
     echelles = {
