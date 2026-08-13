@@ -17,6 +17,12 @@ def show():
     - 📥 Téléchargement des données brutes
     - 🎯 Filtrage par thématique et période
     
+    ### Échelles disponibles
+    - 🏘️ **Communes** : Données à l'échelle communale
+    - 🏙️ **EPCI** : Données à l'échelle des intercommunalités
+    - 📍 **Départements** : Données à l'échelle départementale
+    - 🌍 **Régions** : Données à l'échelle régionale.
+    
     ### Sources de données
     - **Données** : Sources renseignées pour chaque donnée sur la visualisation cartographique
     - **Géométries** : IGN - Admin Express
@@ -27,7 +33,7 @@ def show():
     - Tél : 06 59 61 63 54
     
     ### Version
-    Version 1.0 - Décembre 2025
+    Version 2.0 - août 2026
     """)
     
     st.divider()

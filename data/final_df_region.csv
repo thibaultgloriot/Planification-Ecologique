@@ -1,0 +1,852 @@
+libelle_region,code_region,date,indicateur,valeur
+Bretagne,53,01/01/2022,Points de recharge pour véhicules électriques,528.0
+Bretagne,53,01/01/2023,Points de recharge pour véhicules électriques,6500.0
+Bretagne,53,01/01/2024,Points de recharge pour véhicules électriques,9316.0
+Bretagne,53,01/01/2025,Points de recharge pour véhicules électriques,12894.0
+Bretagne,53,01/01/2022,Points de recharge pour véhicules électriques pour 1000 habitants,0.0471111832169211
+Bretagne,53,01/01/2023,Points de recharge pour véhicules électriques pour 1000 habitants,0.8474141310140934
+Bretagne,53,01/01/2024,Points de recharge pour véhicules électriques pour 1000 habitants,1.1504521553033338
+Bretagne,53,01/01/2025,Points de recharge pour véhicules électriques pour 1000 habitants,1.3624331722784622
+Bretagne,53,01/01/2018,Consommation électrique annuelle du territoire (MWh / an) ,2797642.58785
+Bretagne,53,01/01/2019,Consommation électrique annuelle du territoire (MWh / an) ,2796517.88615
+Bretagne,53,01/01/2020,Consommation électrique annuelle du territoire (MWh / an) ,10206485.38315
+Bretagne,53,01/01/2021,Consommation électrique annuelle du territoire (MWh / an) ,11323502.49350764
+Bretagne,53,01/01/2022,Consommation électrique annuelle du territoire (MWh / an) ,11167193.52324412
+Bretagne,53,01/01/2023,Consommation électrique annuelle du territoire (MWh / an) ,10731549.651279
+Bretagne,53,01/01/2010,Part modale des modes actifs et transports en commun dans les déplacements domicile-travail (%),0.075980225424564
+Bretagne,53,01/01/2015,Part modale des modes actifs et transports en commun dans les déplacements domicile-travail (%),0.0636814783755142
+Bretagne,53,01/01/2021,Part modale des modes actifs et transports en commun dans les déplacements domicile-travail (%),0.0674586883035205
+Bretagne,53,O1/01/2010,Artificialisation des espaces NAF (ha),2407.9555
+Bretagne,53,O1/01/2011,Artificialisation des espaces NAF (ha),2408.0151
+Bretagne,53,O1/01/2012,Artificialisation des espaces NAF (ha),2196.9294
+Bretagne,53,O1/01/2013,Artificialisation des espaces NAF (ha),2114.5748
+Bretagne,53,O1/01/2014,Artificialisation des espaces NAF (ha),1903.366
+Bretagne,53,O1/01/2015,Artificialisation des espaces NAF (ha),1784.9641
+Bretagne,53,O1/01/2016,Artificialisation des espaces NAF (ha),1439.3001
+Bretagne,53,O1/01/2017,Artificialisation des espaces NAF (ha),1709.2312
+Bretagne,53,O1/01/2018,Artificialisation des espaces NAF (ha),1566.28
+Bretagne,53,O1/01/2019,Artificialisation des espaces NAF (ha),1659.8258
+Bretagne,53,O1/01/2020,Artificialisation des espaces NAF (ha),1336.4064
+Bretagne,53,O1/01/2021,Artificialisation des espaces NAF (ha),1646.6688
+Bretagne,53,O1/01/2022,Artificialisation des espaces NAF (ha),1592.3097
+Bretagne,53,O1/01/2023,Artificialisation des espaces NAF (ha),1690.912
+Bretagne,53,O1/01/2024,Artificialisation des espaces NAF (ha),1541.2728
+Bretagne,53,01/01/2022,Linéaire cyclable sécurisé sur le territoire (km),5560.381
+Bretagne,53,01/01/2023,Linéaire cyclable sécurisé sur le territoire (km),5787.644
+Bretagne,53,01/01/2024,Linéaire cyclable sécurisé sur le territoire (km),6134.01
+Bretagne,53,01/01/2022,Linéaire cyclable sécurisé pour 1000 habitants (km/1000hab),1.5031089600331966
+Bretagne,53,01/01/2023,Linéaire cyclable sécurisé pour 1000 habitants (km/1000hab),1.5665167555183688
+Bretagne,53,01/01/2024,Linéaire cyclable sécurisé pour 1000 habitants (km/1000hab),1.6480070096510713
+Bretagne,53,01/01/2024,Indicateur de fragmentation mesh des milieux naturels (sans unité),0.0968257870981176
+Bretagne,53,01/01/2000,Puissance installée d'électricité par éolien terrestre (kw),0.0
+Bretagne,53,01/01/2001,Puissance installée d'électricité par éolien terrestre (kw),0.0
+Bretagne,53,01/01/2002,Puissance installée d'électricité par éolien terrestre (kw),0.0
+Bretagne,53,01/01/2003,Puissance installée d'électricité par éolien terrestre (kw),0.0
+Bretagne,53,01/01/2004,Puissance installée d'électricité par éolien terrestre (kw),1800.0
+Bretagne,53,01/01/2005,Puissance installée d'électricité par éolien terrestre (kw),19800.0
+Bretagne,53,01/01/2006,Puissance installée d'électricité par éolien terrestre (kw),54700.0
+Bretagne,53,01/01/2007,Puissance installée d'électricité par éolien terrestre (kw),57700.0
+Bretagne,53,01/01/2008,Puissance installée d'électricité par éolien terrestre (kw),79320.0
+Bretagne,53,01/01/2009,Puissance installée d'électricité par éolien terrestre (kw),102920.0
+Bretagne,53,01/01/2010,Puissance installée d'électricité par éolien terrestre (kw),182920.0
+Bretagne,53,01/01/2011,Puissance installée d'électricité par éolien terrestre (kw),182920.0
+Bretagne,53,01/01/2012,Puissance installée d'électricité par éolien terrestre (kw),225120.0
+Bretagne,53,01/01/2013,Puissance installée d'électricité par éolien terrestre (kw),233320.0
+Bretagne,53,01/01/2014,Puissance installée d'électricité par éolien terrestre (kw),259970.0
+Bretagne,53,01/01/2015,Puissance installée d'électricité par éolien terrestre (kw),259970.0
+Bretagne,53,01/01/2016,Puissance installée d'électricité par éolien terrestre (kw),283970.0
+Bretagne,53,01/01/2017,Puissance installée d'électricité par éolien terrestre (kw),309170.0
+Bretagne,53,01/01/2018,Puissance installée d'électricité par éolien terrestre (kw),309170.0
+Bretagne,53,01/01/2019,Puissance installée d'électricité par éolien terrestre (kw),313170.0
+Bretagne,53,01/01/2020,Puissance installée d'électricité par éolien terrestre (kw),313180.0
+Bretagne,53,01/01/2021,Puissance installée d'électricité par éolien terrestre (kw),323690.0
+Bretagne,53,01/01/2022,Puissance installée d'électricité par éolien terrestre (kw),390500.0
+Bretagne,53,01/01/2023,Puissance installée d'électricité par éolien terrestre (kw),390500.0
+Bretagne,53,01/01/2024,Puissance installée d'électricité par éolien terrestre (kw),396130.0
+Bretagne,53,01/01/2000,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2001,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2002,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2003,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2004,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2005,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2006,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2007,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2008,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2009,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2010,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2011,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2012,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2013,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2014,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2015,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2016,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2017,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2018,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2019,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2020,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2021,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2022,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2023,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2024,Puissance installée d'électricité par éolien en mer (kw),0.0
+Bretagne,53,01/01/2000,Production d'électricité par éolien terrestre (Mwh),7907.0
+Bretagne,53,01/01/2001,Production d'électricité par éolien terrestre (Mwh),16872.0
+Bretagne,53,01/01/2002,Production d'électricité par éolien terrestre (Mwh),21248.0
+Bretagne,53,01/01/2003,Production d'électricité par éolien terrestre (Mwh),33565.0
+Bretagne,53,01/01/2004,Production d'électricité par éolien terrestre (Mwh),45944.0
+Bretagne,53,01/01/2005,Production d'électricité par éolien terrestre (Mwh),127501.0
+Bretagne,53,01/01/2006,Production d'électricité par éolien terrestre (Mwh),270914.0
+Bretagne,53,01/01/2007,Production d'électricité par éolien terrestre (Mwh),427404.0
+Bretagne,53,01/01/2008,Production d'électricité par éolien terrestre (Mwh),555153.0
+Bretagne,53,01/01/2009,Production d'électricité par éolien terrestre (Mwh),740441.0
+Bretagne,53,01/01/2010,Production d'électricité par éolien terrestre (Mwh),956025.0
+Bretagne,53,01/01/2011,Production d'électricité par éolien terrestre (Mwh),1196530.0
+Bretagne,53,01/01/2012,Production d'électricité par éolien terrestre (Mwh),1260333.0
+Bretagne,53,01/01/2013,Production d'électricité par éolien terrestre (Mwh),1373408.0
+Bretagne,53,01/01/2014,Production d'électricité par éolien terrestre (Mwh),1439007.0
+Bretagne,53,01/01/2015,Production d'électricité par éolien terrestre (Mwh),1521734.0
+Bretagne,53,01/01/2016,Production d'électricité par éolien terrestre (Mwh),1615533.0
+Bretagne,53,01/01/2017,Production d'électricité par éolien terrestre (Mwh),1533986.0
+Bretagne,53,01/01/2018,Production d'électricité par éolien terrestre (Mwh),1803955.0
+Bretagne,53,01/01/2019,Production d'électricité par éolien terrestre (Mwh),1937387.0
+Bretagne,53,01/01/2020,Production d'électricité par éolien terrestre (Mwh),2239880.0
+Bretagne,53,01/01/2021,Production d'électricité par éolien terrestre (Mwh),1942111.0
+Bretagne,53,01/01/2022,Production d'électricité par éolien terrestre (Mwh),2022468.0
+Bretagne,53,01/01/2023,Production d'électricité par éolien terrestre (Mwh),2486776.0
+Bretagne,53,01/01/2024,Production d'électricité par éolien terrestre (Mwh),2222562.0
+Bretagne,53,01/01/2000,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2001,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2002,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2003,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2004,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2005,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2006,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2007,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2008,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2009,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2010,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2011,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2012,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2013,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2014,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2015,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2016,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2017,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2018,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2019,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2020,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2021,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2022,Production d'électricité par éolien en mer (Mwh),0.0
+Bretagne,53,01/01/2023,Production d'électricité par éolien en mer (Mwh),114603.0
+Bretagne,53,01/01/2024,Production d'électricité par éolien en mer (Mwh),1203559.0
+Bretagne,53,01/01/2008,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),0.0
+Bretagne,53,01/01/2009,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),275.0
+Bretagne,53,01/01/2010,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),7515.0
+Bretagne,53,01/01/2011,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),17164.0
+Bretagne,53,01/01/2012,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),23821.0
+Bretagne,53,01/01/2013,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),26552.0
+Bretagne,53,01/01/2014,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),29267.0
+Bretagne,53,01/01/2015,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),31100.0
+Bretagne,53,01/01/2016,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),32234.0
+Bretagne,53,01/01/2017,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),34933.0
+Bretagne,53,01/01/2018,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),40949.0
+Bretagne,53,01/01/2019,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),45047.0
+Bretagne,53,01/01/2020,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),49583.0
+Bretagne,53,01/01/2021,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),59504.0
+Bretagne,53,01/01/2022,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),87957.0
+Bretagne,53,01/01/2023,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),119192.0
+Bretagne,53,01/01/2024,Puissance installée d'électricité par panneaux solaires photovoltaïques (kw),187864.0
+Bretagne,53,01/01/2008,Production d'électricité par panneaux solaires photovoltaïques (Mwh),60.0
+Bretagne,53,01/01/2009,Production d'électricité par panneaux solaires photovoltaïques (Mwh),1781.0
+Bretagne,53,01/01/2010,Production d'électricité par panneaux solaires photovoltaïques (Mwh),10507.0
+Bretagne,53,01/01/2011,Production d'électricité par panneaux solaires photovoltaïques (Mwh),39560.0
+Bretagne,53,01/01/2012,Production d'électricité par panneaux solaires photovoltaïques (Mwh),66567.0
+Bretagne,53,01/01/2013,Production d'électricité par panneaux solaires photovoltaïques (Mwh),77870.0
+Bretagne,53,01/01/2014,Production d'électricité par panneaux solaires photovoltaïques (Mwh),91192.0
+Bretagne,53,01/01/2015,Production d'électricité par panneaux solaires photovoltaïques (Mwh),98819.0
+Bretagne,53,01/01/2016,Production d'électricité par panneaux solaires photovoltaïques (Mwh),104793.0
+Bretagne,53,01/01/2017,Production d'électricité par panneaux solaires photovoltaïques (Mwh),188032.0
+Bretagne,53,01/01/2018,Production d'électricité par panneaux solaires photovoltaïques (Mwh),204902.0
+Bretagne,53,01/01/2019,Production d'électricité par panneaux solaires photovoltaïques (Mwh),225716.0
+Bretagne,53,01/01/2020,Production d'électricité par panneaux solaires photovoltaïques (Mwh),226302.0
+Bretagne,53,01/01/2021,Production d'électricité par panneaux solaires photovoltaïques (Mwh),285521.0
+Bretagne,53,01/01/2022,Production d'électricité par panneaux solaires photovoltaïques (Mwh),351253.0
+Bretagne,53,01/01/2023,Production d'électricité par panneaux solaires photovoltaïques (Mwh),430430.0
+Bretagne,53,01/01/2024,Production d'électricité par panneaux solaires photovoltaïques (Mwh),543372.0
+Bretagne,53,01/01/2000,Production d'électricité par panneaux solaires thermiques (Mwh),0.0
+Bretagne,53,01/01/2001,Production d'électricité par panneaux solaires thermiques (Mwh),0.0
+Bretagne,53,01/01/2002,Production d'électricité par panneaux solaires thermiques (Mwh),96.0
+Bretagne,53,01/01/2003,Production d'électricité par panneaux solaires thermiques (Mwh),747.0
+Bretagne,53,01/01/2004,Production d'électricité par panneaux solaires thermiques (Mwh),1531.0
+Bretagne,53,01/01/2005,Production d'électricité par panneaux solaires thermiques (Mwh),2830.0
+Bretagne,53,01/01/2006,Production d'électricité par panneaux solaires thermiques (Mwh),5426.0
+Bretagne,53,01/01/2007,Production d'électricité par panneaux solaires thermiques (Mwh),7980.0
+Bretagne,53,01/01/2008,Production d'électricité par panneaux solaires thermiques (Mwh),10595.0
+Bretagne,53,01/01/2009,Production d'électricité par panneaux solaires thermiques (Mwh),13163.0
+Bretagne,53,01/01/2010,Production d'électricité par panneaux solaires thermiques (Mwh),15757.0
+Bretagne,53,01/01/2011,Production d'électricité par panneaux solaires thermiques (Mwh),18348.0
+Bretagne,53,01/01/2012,Production d'électricité par panneaux solaires thermiques (Mwh),20951.0
+Bretagne,53,01/01/2013,Production d'électricité par panneaux solaires thermiques (Mwh),23512.0
+Bretagne,53,01/01/2014,Production d'électricité par panneaux solaires thermiques (Mwh),26106.0
+Bretagne,53,01/01/2015,Production d'électricité par panneaux solaires thermiques (Mwh),28699.0
+Bretagne,53,01/01/2016,Production d'électricité par panneaux solaires thermiques (Mwh),31290.0
+Bretagne,53,01/01/2017,Production d'électricité par panneaux solaires thermiques (Mwh),33892.0
+Bretagne,53,01/01/2018,Production d'électricité par panneaux solaires thermiques (Mwh),35240.0
+Bretagne,53,01/01/2019,Production d'électricité par panneaux solaires thermiques (Mwh),36259.0
+Bretagne,53,01/01/2020,Production d'électricité par panneaux solaires thermiques (Mwh),36894.0
+Bretagne,53,01/01/2021,Production d'électricité par panneaux solaires thermiques (Mwh),37777.0
+Bretagne,53,01/01/2022,Production d'électricité par panneaux solaires thermiques (Mwh),40162.0
+Bretagne,53,01/01/2023,Production d'électricité par panneaux solaires thermiques (Mwh),42401.0
+Bretagne,53,01/01/2024,Production d'électricité par panneaux solaires thermiques (Mwh),43359.0
+Bretagne,53,01/01/2000,Puissance installée d'électricité par panneaux solaires thermiques (kw),0.0
+Bretagne,53,01/01/2001,Puissance installée d'électricité par panneaux solaires thermiques (kw),0.0
+Bretagne,53,01/01/2002,Puissance installée d'électricité par panneaux solaires thermiques (kw),0.0
+Bretagne,53,01/01/2003,Puissance installée d'électricité par panneaux solaires thermiques (kw),50.0
+Bretagne,53,01/01/2004,Puissance installée d'électricité par panneaux solaires thermiques (kw),190.0
+Bretagne,53,01/01/2005,Puissance installée d'électricité par panneaux solaires thermiques (kw),530.0
+Bretagne,53,01/01/2006,Puissance installée d'électricité par panneaux solaires thermiques (kw),1410.0
+Bretagne,53,01/01/2007,Puissance installée d'électricité par panneaux solaires thermiques (kw),2310.0
+Bretagne,53,01/01/2008,Puissance installée d'électricité par panneaux solaires thermiques (kw),3090.0
+Bretagne,53,01/01/2009,Puissance installée d'électricité par panneaux solaires thermiques (kw),3860.0
+Bretagne,53,01/01/2010,Puissance installée d'électricité par panneaux solaires thermiques (kw),4560.0
+Bretagne,53,01/01/2011,Puissance installée d'électricité par panneaux solaires thermiques (kw),5410.0
+Bretagne,53,01/01/2012,Puissance installée d'électricité par panneaux solaires thermiques (kw),6220.0
+Bretagne,53,01/01/2013,Puissance installée d'électricité par panneaux solaires thermiques (kw),7030.0
+Bretagne,53,01/01/2014,Puissance installée d'électricité par panneaux solaires thermiques (kw),7680.0
+Bretagne,53,01/01/2015,Puissance installée d'électricité par panneaux solaires thermiques (kw),8520.0
+Bretagne,53,01/01/2016,Puissance installée d'électricité par panneaux solaires thermiques (kw),9220.0
+Bretagne,53,01/01/2017,Puissance installée d'électricité par panneaux solaires thermiques (kw),10090.0
+Bretagne,53,01/01/2018,Puissance installée d'électricité par panneaux solaires thermiques (kw),10410.0
+Bretagne,53,01/01/2019,Puissance installée d'électricité par panneaux solaires thermiques (kw),10670.0
+Bretagne,53,01/01/2020,Puissance installée d'électricité par panneaux solaires thermiques (kw),10870.0
+Bretagne,53,01/01/2021,Puissance installée d'électricité par panneaux solaires thermiques (kw),11290.0
+Bretagne,53,01/01/2022,Puissance installée d'électricité par panneaux solaires thermiques (kw),11900.0
+Bretagne,53,01/01/2023,Puissance installée d'électricité par panneaux solaires thermiques (kw),12560.0
+Bretagne,53,01/01/2024,Puissance installée d'électricité par panneaux solaires thermiques (kw),12920.0
+Bretagne,53,01/01/2000,Production d’hydroélectricité (Mwh),592002.0
+Bretagne,53,01/01/2001,Production d’hydroélectricité (Mwh),614500.0
+Bretagne,53,01/01/2002,Production d’hydroélectricité (Mwh),602999.0
+Bretagne,53,01/01/2003,Production d’hydroélectricité (Mwh),569134.0
+Bretagne,53,01/01/2004,Production d’hydroélectricité (Mwh),571695.0
+Bretagne,53,01/01/2005,Production d’hydroélectricité (Mwh),572999.0
+Bretagne,53,01/01/2006,Production d’hydroélectricité (Mwh),572645.0
+Bretagne,53,01/01/2007,Production d’hydroélectricité (Mwh),575919.0
+Bretagne,53,01/01/2008,Production d’hydroélectricité (Mwh),574229.0
+Bretagne,53,01/01/2009,Production d’hydroélectricité (Mwh),557187.0
+Bretagne,53,01/01/2010,Production d’hydroélectricité (Mwh),587739.0
+Bretagne,53,01/01/2011,Production d’hydroélectricité (Mwh),554973.0
+Bretagne,53,01/01/2012,Production d’hydroélectricité (Mwh),553087.0
+Bretagne,53,01/01/2013,Production d’hydroélectricité (Mwh),515087.0
+Bretagne,53,01/01/2014,Production d’hydroélectricité (Mwh),586093.0
+Bretagne,53,01/01/2015,Production d’hydroélectricité (Mwh),579828.0
+Bretagne,53,01/01/2016,Production d’hydroélectricité (Mwh),590586.0
+Bretagne,53,01/01/2017,Production d’hydroélectricité (Mwh),579102.0
+Bretagne,53,01/01/2018,Production d’hydroélectricité (Mwh),591257.0
+Bretagne,53,01/01/2019,Production d’hydroélectricité (Mwh),591676.0
+Bretagne,53,01/01/2020,Production d’hydroélectricité (Mwh),618277.0
+Bretagne,53,01/01/2021,Production d’hydroélectricité (Mwh),602259.0
+Bretagne,53,01/01/2022,Production d’hydroélectricité (Mwh),592234.0
+Bretagne,53,01/01/2023,Production d’hydroélectricité (Mwh),571149.0
+Bretagne,53,01/01/2024,Production d’hydroélectricité (Mwh),588540.0
+Bretagne,53,01/01/2000,Puissance installée d'hydroélectricité (kw),4082.0
+Bretagne,53,01/01/2001,Puissance installée d'hydroélectricité (kw),4082.0
+Bretagne,53,01/01/2002,Puissance installée d'hydroélectricité (kw),4082.0
+Bretagne,53,01/01/2003,Puissance installée d'hydroélectricité (kw),4602.0
+Bretagne,53,01/01/2004,Puissance installée d'hydroélectricité (kw),4602.0
+Bretagne,53,01/01/2005,Puissance installée d'hydroélectricité (kw),4602.0
+Bretagne,53,01/01/2006,Puissance installée d'hydroélectricité (kw),4602.0
+Bretagne,53,01/01/2007,Puissance installée d'hydroélectricité (kw),4650.0
+Bretagne,53,01/01/2008,Puissance installée d'hydroélectricité (kw),4900.0
+Bretagne,53,01/01/2009,Puissance installée d'hydroélectricité (kw),4900.0
+Bretagne,53,01/01/2010,Puissance installée d'hydroélectricité (kw),4900.0
+Bretagne,53,01/01/2011,Puissance installée d'hydroélectricité (kw),4352.0
+Bretagne,53,01/01/2012,Puissance installée d'hydroélectricité (kw),5055.0
+Bretagne,53,01/01/2013,Puissance installée d'hydroélectricité (kw),5055.0
+Bretagne,53,01/01/2014,Puissance installée d'hydroélectricité (kw),5055.0
+Bretagne,53,01/01/2015,Puissance installée d'hydroélectricité (kw),5055.0
+Bretagne,53,01/01/2016,Puissance installée d'hydroélectricité (kw),5155.0
+Bretagne,53,01/01/2017,Puissance installée d'hydroélectricité (kw),5155.0
+Bretagne,53,01/01/2018,Puissance installée d'hydroélectricité (kw),5155.0
+Bretagne,53,01/01/2019,Puissance installée d'hydroélectricité (kw),5155.0
+Bretagne,53,01/01/2020,Puissance installée d'hydroélectricité (kw),5155.0
+Bretagne,53,01/01/2021,Puissance installée d'hydroélectricité (kw),5235.0
+Bretagne,53,01/01/2022,Puissance installée d'hydroélectricité (kw),5395.0
+Bretagne,53,01/01/2023,Puissance installée d'hydroélectricité (kw),5395.0
+Bretagne,53,01/01/2024,Puissance installée d'hydroélectricité (kw),5463.0
+Bretagne,53,01/01/2000,Production d'électricité par incinérations de déchets (Mwh),125090.0
+Bretagne,53,01/01/2001,Production d'électricité par incinérations de déchets (Mwh),163214.0
+Bretagne,53,01/01/2002,Production d'électricité par incinérations de déchets (Mwh),149215.0
+Bretagne,53,01/01/2003,Production d'électricité par incinérations de déchets (Mwh),149874.0
+Bretagne,53,01/01/2004,Production d'électricité par incinérations de déchets (Mwh),100377.0
+Bretagne,53,01/01/2005,Production d'électricité par incinérations de déchets (Mwh),126791.0
+Bretagne,53,01/01/2006,Production d'électricité par incinérations de déchets (Mwh),49686.0
+Bretagne,53,01/01/2007,Production d'électricité par incinérations de déchets (Mwh),151734.0
+Bretagne,53,01/01/2008,Production d'électricité par incinérations de déchets (Mwh),88726.0
+Bretagne,53,01/01/2009,Production d'électricité par incinérations de déchets (Mwh),71600.0
+Bretagne,53,01/01/2010,Production d'électricité par incinérations de déchets (Mwh),150839.0
+Bretagne,53,01/01/2011,Production d'électricité par incinérations de déchets (Mwh),84741.0
+Bretagne,53,01/01/2012,Production d'électricité par incinérations de déchets (Mwh),172075.0
+Bretagne,53,01/01/2013,Production d'électricité par incinérations de déchets (Mwh),162717.0
+Bretagne,53,01/01/2014,Production d'électricité par incinérations de déchets (Mwh),167202.0
+Bretagne,53,01/01/2015,Production d'électricité par incinérations de déchets (Mwh),184001.0
+Bretagne,53,01/01/2016,Production d'électricité par incinérations de déchets (Mwh),171385.0
+Bretagne,53,01/01/2017,Production d'électricité par incinérations de déchets (Mwh),164019.0
+Bretagne,53,01/01/2018,Production d'électricité par incinérations de déchets (Mwh),152476.0
+Bretagne,53,01/01/2019,Production d'électricité par incinérations de déchets (Mwh),166404.0
+Bretagne,53,01/01/2020,Production d'électricité par incinérations de déchets (Mwh),161939.0
+Bretagne,53,01/01/2021,Production d'électricité par incinérations de déchets (Mwh),147489.0
+Bretagne,53,01/01/2022,Production d'électricité par incinérations de déchets (Mwh),149476.0
+Bretagne,53,01/01/2023,Production d'électricité par incinérations de déchets (Mwh),102320.0
+Bretagne,53,01/01/2024,Production d'électricité par incinérations de déchets (Mwh),131239.0
+Bretagne,53,01/01/2000,Production d'électricité fossile (Mwh),107306.0
+Bretagne,53,01/01/2001,Production d'électricité fossile (Mwh),107306.0
+Bretagne,53,01/01/2002,Production d'électricité fossile (Mwh),107306.0
+Bretagne,53,01/01/2003,Production d'électricité fossile (Mwh),107306.0
+Bretagne,53,01/01/2004,Production d'électricité fossile (Mwh),116815.0
+Bretagne,53,01/01/2005,Production d'électricité fossile (Mwh),127236.0
+Bretagne,53,01/01/2006,Production d'électricité fossile (Mwh),152086.0
+Bretagne,53,01/01/2007,Production d'électricité fossile (Mwh),152086.0
+Bretagne,53,01/01/2008,Production d'électricité fossile (Mwh),152086.0
+Bretagne,53,01/01/2009,Production d'électricité fossile (Mwh),152086.0
+Bretagne,53,01/01/2010,Production d'électricité fossile (Mwh),165871.0
+Bretagne,53,01/01/2011,Production d'électricité fossile (Mwh),310505.0
+Bretagne,53,01/01/2012,Production d'électricité fossile (Mwh),292139.0
+Bretagne,53,01/01/2013,Production d'électricité fossile (Mwh),308670.0
+Bretagne,53,01/01/2014,Production d'électricité fossile (Mwh),348948.0
+Bretagne,53,01/01/2015,Production d'électricité fossile (Mwh),454232.0
+Bretagne,53,01/01/2016,Production d'électricité fossile (Mwh),603301.0
+Bretagne,53,01/01/2017,Production d'électricité fossile (Mwh),698949.0
+Bretagne,53,01/01/2018,Production d'électricité fossile (Mwh),779175.0
+Bretagne,53,01/01/2019,Production d'électricité fossile (Mwh),872049.0
+Bretagne,53,01/01/2020,Production d'électricité fossile (Mwh),901190.0
+Bretagne,53,01/01/2021,Production d'électricité fossile (Mwh),1030540.0
+Bretagne,53,01/01/2022,Production d'électricité fossile (Mwh),3749207.0
+Bretagne,53,01/01/2023,Production d'électricité fossile (Mwh),2603141.0
+Bretagne,53,01/01/2024,Production d'électricité fossile (Mwh),1619553.0
+Bretagne,53,01/01/2000,Production de chaleur par incinérations de déchets (Mwh),299413.0
+Bretagne,53,01/01/2001,Production de chaleur par incinérations de déchets (Mwh),307798.0
+Bretagne,53,01/01/2002,Production de chaleur par incinérations de déchets (Mwh),306141.0
+Bretagne,53,01/01/2003,Production de chaleur par incinérations de déchets (Mwh),285610.0
+Bretagne,53,01/01/2004,Production de chaleur par incinérations de déchets (Mwh),302046.0
+Bretagne,53,01/01/2005,Production de chaleur par incinérations de déchets (Mwh),252644.0
+Bretagne,53,01/01/2006,Production de chaleur par incinérations de déchets (Mwh),270574.0
+Bretagne,53,01/01/2007,Production de chaleur par incinérations de déchets (Mwh),281678.0
+Bretagne,53,01/01/2008,Production de chaleur par incinérations de déchets (Mwh),299662.0
+Bretagne,53,01/01/2009,Production de chaleur par incinérations de déchets (Mwh),299284.0
+Bretagne,53,01/01/2010,Production de chaleur par incinérations de déchets (Mwh),353356.0
+Bretagne,53,01/01/2011,Production de chaleur par incinérations de déchets (Mwh),316876.0
+Bretagne,53,01/01/2012,Production de chaleur par incinérations de déchets (Mwh),382485.0
+Bretagne,53,01/01/2013,Production de chaleur par incinérations de déchets (Mwh),397835.0
+Bretagne,53,01/01/2014,Production de chaleur par incinérations de déchets (Mwh),374074.0
+Bretagne,53,01/01/2015,Production de chaleur par incinérations de déchets (Mwh),406676.0
+Bretagne,53,01/01/2016,Production de chaleur par incinérations de déchets (Mwh),438323.0
+Bretagne,53,01/01/2017,Production de chaleur par incinérations de déchets (Mwh),466977.0
+Bretagne,53,01/01/2018,Production de chaleur par incinérations de déchets (Mwh),467389.0
+Bretagne,53,01/01/2019,Production de chaleur par incinérations de déchets (Mwh),402592.0
+Bretagne,53,01/01/2020,Production de chaleur par incinérations de déchets (Mwh),419057.0
+Bretagne,53,01/01/2021,Production de chaleur par incinérations de déchets (Mwh),440992.0
+Bretagne,53,01/01/2022,Production de chaleur par incinérations de déchets (Mwh),407927.0
+Bretagne,53,01/01/2023,Production de chaleur par incinérations de déchets (Mwh),359060.0
+Bretagne,53,01/01/2024,Production de chaleur par incinérations de déchets (Mwh),357714.0
+Bretagne,53,01/01/2000,Production de chaleur fossile (Mwh),117663.0
+Bretagne,53,01/01/2001,Production de chaleur fossile (Mwh),119693.0
+Bretagne,53,01/01/2002,Production de chaleur fossile (Mwh),116268.0
+Bretagne,53,01/01/2003,Production de chaleur fossile (Mwh),118147.0
+Bretagne,53,01/01/2004,Production de chaleur fossile (Mwh),129282.0
+Bretagne,53,01/01/2005,Production de chaleur fossile (Mwh),132696.0
+Bretagne,53,01/01/2006,Production de chaleur fossile (Mwh),165512.0
+Bretagne,53,01/01/2007,Production de chaleur fossile (Mwh),162193.0
+Bretagne,53,01/01/2008,Production de chaleur fossile (Mwh),166784.0
+Bretagne,53,01/01/2009,Production de chaleur fossile (Mwh),173302.0
+Bretagne,53,01/01/2010,Production de chaleur fossile (Mwh),216627.0
+Bretagne,53,01/01/2011,Production de chaleur fossile (Mwh),296792.0
+Bretagne,53,01/01/2012,Production de chaleur fossile (Mwh),298749.0
+Bretagne,53,01/01/2013,Production de chaleur fossile (Mwh),341908.0
+Bretagne,53,01/01/2014,Production de chaleur fossile (Mwh),345284.0
+Bretagne,53,01/01/2015,Production de chaleur fossile (Mwh),466726.0
+Bretagne,53,01/01/2016,Production de chaleur fossile (Mwh),656557.0
+Bretagne,53,01/01/2017,Production de chaleur fossile (Mwh),822482.0
+Bretagne,53,01/01/2018,Production de chaleur fossile (Mwh),934407.0
+Bretagne,53,01/01/2019,Production de chaleur fossile (Mwh),1013117.0
+Bretagne,53,01/01/2020,Production de chaleur fossile (Mwh),1009867.0
+Bretagne,53,01/01/2021,Production de chaleur fossile (Mwh),1118321.0
+Bretagne,53,01/01/2022,Production de chaleur fossile (Mwh),1389705.0
+Bretagne,53,01/01/2023,Production de chaleur fossile (Mwh),1291338.0
+Bretagne,53,01/01/2024,Production de chaleur fossile (Mwh),1216240.0
+Bretagne,53,01/01/2000,Production d'électricité bois domestique et chaufferie (Mwh),0.0
+Bretagne,53,01/01/2001,Production d'électricité bois domestique et chaufferie (Mwh),0.0
+Bretagne,53,01/01/2002,Production d'électricité bois domestique et chaufferie (Mwh),0.0
+Bretagne,53,01/01/2003,Production d'électricité bois domestique et chaufferie (Mwh),0.0
+Bretagne,53,01/01/2004,Production d'électricité bois domestique et chaufferie (Mwh),0.0
+Bretagne,53,01/01/2005,Production d'électricité bois domestique et chaufferie (Mwh),0.0
+Bretagne,53,01/01/2006,Production d'électricité bois domestique et chaufferie (Mwh),0.0
+Bretagne,53,01/01/2007,Production d'électricité bois domestique et chaufferie (Mwh),0.0
+Bretagne,53,01/01/2008,Production d'électricité bois domestique et chaufferie (Mwh),0.0
+Bretagne,53,01/01/2009,Production d'électricité bois domestique et chaufferie (Mwh),0.0
+Bretagne,53,01/01/2010,Production d'électricité bois domestique et chaufferie (Mwh),0.0
+Bretagne,53,01/01/2011,Production d'électricité bois domestique et chaufferie (Mwh),0.0
+Bretagne,53,01/01/2012,Production d'électricité bois domestique et chaufferie (Mwh),0.0
+Bretagne,53,01/01/2013,Production d'électricité bois domestique et chaufferie (Mwh),32598.0
+Bretagne,53,01/01/2014,Production d'électricité bois domestique et chaufferie (Mwh),71166.0
+Bretagne,53,01/01/2015,Production d'électricité bois domestique et chaufferie (Mwh),69795.0
+Bretagne,53,01/01/2016,Production d'électricité bois domestique et chaufferie (Mwh),70306.0
+Bretagne,53,01/01/2017,Production d'électricité bois domestique et chaufferie (Mwh),69607.0
+Bretagne,53,01/01/2018,Production d'électricité bois domestique et chaufferie (Mwh),98686.0
+Bretagne,53,01/01/2019,Production d'électricité bois domestique et chaufferie (Mwh),92228.0
+Bretagne,53,01/01/2020,Production d'électricité bois domestique et chaufferie (Mwh),94007.0
+Bretagne,53,01/01/2021,Production d'électricité bois domestique et chaufferie (Mwh),97009.0
+Bretagne,53,01/01/2022,Production d'électricité bois domestique et chaufferie (Mwh),100932.0
+Bretagne,53,01/01/2023,Production d'électricité bois domestique et chaufferie (Mwh),89297.0
+Bretagne,53,01/01/2024,Production d'électricité bois domestique et chaufferie (Mwh),91874.0
+Bretagne,53,01/01/2000,Production de chaleur bois domestique et chaufferie (Mwh),3469871.0
+Bretagne,53,01/01/2001,Production de chaleur bois domestique et chaufferie (Mwh),3505288.0
+Bretagne,53,01/01/2002,Production de chaleur bois domestique et chaufferie (Mwh),3218208.0
+Bretagne,53,01/01/2003,Production de chaleur bois domestique et chaufferie (Mwh),3512229.0
+Bretagne,53,01/01/2004,Production de chaleur bois domestique et chaufferie (Mwh),3598005.0
+Bretagne,53,01/01/2005,Production de chaleur bois domestique et chaufferie (Mwh),3563458.0
+Bretagne,53,01/01/2006,Production de chaleur bois domestique et chaufferie (Mwh),3790766.0
+Bretagne,53,01/01/2007,Production de chaleur bois domestique et chaufferie (Mwh),3610203.0
+Bretagne,53,01/01/2008,Production de chaleur bois domestique et chaufferie (Mwh),3939456.0
+Bretagne,53,01/01/2009,Production de chaleur bois domestique et chaufferie (Mwh),4108692.0
+Bretagne,53,01/01/2010,Production de chaleur bois domestique et chaufferie (Mwh),4591234.0
+Bretagne,53,01/01/2011,Production de chaleur bois domestique et chaufferie (Mwh),3730009.0
+Bretagne,53,01/01/2012,Production de chaleur bois domestique et chaufferie (Mwh),4373630.0
+Bretagne,53,01/01/2013,Production de chaleur bois domestique et chaufferie (Mwh),4504402.0
+Bretagne,53,01/01/2014,Production de chaleur bois domestique et chaufferie (Mwh),4178443.0
+Bretagne,53,01/01/2015,Production de chaleur bois domestique et chaufferie (Mwh),4827985.0
+Bretagne,53,01/01/2016,Production de chaleur bois domestique et chaufferie (Mwh),5647104.0
+Bretagne,53,01/01/2017,Production de chaleur bois domestique et chaufferie (Mwh),5344179.0
+Bretagne,53,01/01/2018,Production de chaleur bois domestique et chaufferie (Mwh),5434240.0
+Bretagne,53,01/01/2019,Production de chaleur bois domestique et chaufferie (Mwh),5418720.0
+Bretagne,53,01/01/2020,Production de chaleur bois domestique et chaufferie (Mwh),5019399.0
+Bretagne,53,01/01/2021,Production de chaleur bois domestique et chaufferie (Mwh),5708362.0
+Bretagne,53,01/01/2022,Production de chaleur bois domestique et chaufferie (Mwh),5409305.0
+Bretagne,53,01/01/2023,Production de chaleur bois domestique et chaufferie (Mwh),5638190.0
+Bretagne,53,01/01/2024,Production de chaleur bois domestique et chaufferie (Mwh),5973341.0
+Bretagne,53,01/01/2000,Production d'électricité par méthanisation (Mwh),0.0
+Bretagne,53,01/01/2001,Production d'électricité par méthanisation (Mwh),0.0
+Bretagne,53,01/01/2002,Production d'électricité par méthanisation (Mwh),0.0
+Bretagne,53,01/01/2003,Production d'électricité par méthanisation (Mwh),0.0
+Bretagne,53,01/01/2004,Production d'électricité par méthanisation (Mwh),0.0
+Bretagne,53,01/01/2005,Production d'électricité par méthanisation (Mwh),0.0
+Bretagne,53,01/01/2006,Production d'électricité par méthanisation (Mwh),0.0
+Bretagne,53,01/01/2007,Production d'électricité par méthanisation (Mwh),0.0
+Bretagne,53,01/01/2008,Production d'électricité par méthanisation (Mwh),28.0
+Bretagne,53,01/01/2009,Production d'électricité par méthanisation (Mwh),898.0
+Bretagne,53,01/01/2010,Production d'électricité par méthanisation (Mwh),3906.0
+Bretagne,53,01/01/2011,Production d'électricité par méthanisation (Mwh),15057.0
+Bretagne,53,01/01/2012,Production d'électricité par méthanisation (Mwh),36240.0
+Bretagne,53,01/01/2013,Production d'électricité par méthanisation (Mwh),50645.0
+Bretagne,53,01/01/2014,Production d'électricité par méthanisation (Mwh),61414.0
+Bretagne,53,01/01/2015,Production d'électricité par méthanisation (Mwh),77762.0
+Bretagne,53,01/01/2016,Production d'électricité par méthanisation (Mwh),92912.0
+Bretagne,53,01/01/2017,Production d'électricité par méthanisation (Mwh),118484.0
+Bretagne,53,01/01/2018,Production d'électricité par méthanisation (Mwh),152530.0
+Bretagne,53,01/01/2019,Production d'électricité par méthanisation (Mwh),172585.0
+Bretagne,53,01/01/2020,Production d'électricité par méthanisation (Mwh),215062.0
+Bretagne,53,01/01/2021,Production d'électricité par méthanisation (Mwh),230838.0
+Bretagne,53,01/01/2022,Production d'électricité par méthanisation (Mwh),245004.0
+Bretagne,53,01/01/2023,Production d'électricité par méthanisation (Mwh),256668.0
+Bretagne,53,01/01/2024,Production d'électricité par méthanisation (Mwh),265496.0
+Bretagne,53,01/01/2005,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),83424.0
+Bretagne,53,01/01/2006,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),157714.0
+Bretagne,53,01/01/2007,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),169521.0
+Bretagne,53,01/01/2008,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),220580.0
+Bretagne,53,01/01/2009,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),276175.0
+Bretagne,53,01/01/2010,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),350128.0
+Bretagne,53,01/01/2011,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),313880.0
+Bretagne,53,01/01/2012,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),444738.0
+Bretagne,53,01/01/2013,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),582559.0
+Bretagne,53,01/01/2014,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),601288.0
+Bretagne,53,01/01/2015,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),713013.0
+Bretagne,53,01/01/2016,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),921554.0
+Bretagne,53,01/01/2017,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),998942.0
+Bretagne,53,01/01/2018,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),1176945.0
+Bretagne,53,01/01/2019,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),1377156.0
+Bretagne,53,01/01/2020,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),1427339.0
+Bretagne,53,01/01/2021,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),1758352.0
+Bretagne,53,01/01/2022,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),1756769.0
+Bretagne,53,01/01/2023,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),2080668.0
+Bretagne,53,01/01/2024,Production de chaleur par les pompes à chaleur (aérothermie et géothermie) (Mwh),2345585.0
+Bretagne,53,01/01/2000,Production de chaleur par méthanisation (Mwh),460.0
+Bretagne,53,01/01/2001,Production de chaleur par méthanisation (Mwh),460.0
+Bretagne,53,01/01/2002,Production de chaleur par méthanisation (Mwh),460.0
+Bretagne,53,01/01/2003,Production de chaleur par méthanisation (Mwh),6516.0
+Bretagne,53,01/01/2004,Production de chaleur par méthanisation (Mwh),7204.0
+Bretagne,53,01/01/2005,Production de chaleur par méthanisation (Mwh),7589.0
+Bretagne,53,01/01/2006,Production de chaleur par méthanisation (Mwh),7589.0
+Bretagne,53,01/01/2007,Production de chaleur par méthanisation (Mwh),7589.0
+Bretagne,53,01/01/2008,Production de chaleur par méthanisation (Mwh),7838.0
+Bretagne,53,01/01/2009,Production de chaleur par méthanisation (Mwh),8959.0
+Bretagne,53,01/01/2010,Production de chaleur par méthanisation (Mwh),12689.0
+Bretagne,53,01/01/2011,Production de chaleur par méthanisation (Mwh),25298.0
+Bretagne,53,01/01/2012,Production de chaleur par méthanisation (Mwh),49367.0
+Bretagne,53,01/01/2013,Production de chaleur par méthanisation (Mwh),65595.0
+Bretagne,53,01/01/2014,Production de chaleur par méthanisation (Mwh),78040.0
+Bretagne,53,01/01/2015,Production de chaleur par méthanisation (Mwh),96850.0
+Bretagne,53,01/01/2016,Production de chaleur par méthanisation (Mwh),114015.0
+Bretagne,53,01/01/2017,Production de chaleur par méthanisation (Mwh),130713.0
+Bretagne,53,01/01/2018,Production de chaleur par méthanisation (Mwh),163881.0
+Bretagne,53,01/01/2019,Production de chaleur par méthanisation (Mwh),182436.0
+Bretagne,53,01/01/2020,Production de chaleur par méthanisation (Mwh),226152.0
+Bretagne,53,01/01/2021,Production de chaleur par méthanisation (Mwh),256166.0
+Bretagne,53,01/01/2022,Production de chaleur par méthanisation (Mwh),263513.0
+Bretagne,53,01/01/2023,Production de chaleur par méthanisation (Mwh),273506.0
+Bretagne,53,01/01/2024,Production de chaleur par méthanisation (Mwh),280741.0
+Bretagne,53,01/01/2000,Production de Biométhane (Mwh),0.0
+Bretagne,53,01/01/2001,Production de Biométhane (Mwh),0.0
+Bretagne,53,01/01/2002,Production de Biométhane (Mwh),0.0
+Bretagne,53,01/01/2003,Production de Biométhane (Mwh),0.0
+Bretagne,53,01/01/2004,Production de Biométhane (Mwh),0.0
+Bretagne,53,01/01/2005,Production de Biométhane (Mwh),0.0
+Bretagne,53,01/01/2006,Production de Biométhane (Mwh),0.0
+Bretagne,53,01/01/2007,Production de Biométhane (Mwh),0.0
+Bretagne,53,01/01/2008,Production de Biométhane (Mwh),0.0
+Bretagne,53,01/01/2009,Production de Biométhane (Mwh),0.0
+Bretagne,53,01/01/2010,Production de Biométhane (Mwh),0.0
+Bretagne,53,01/01/2011,Production de Biométhane (Mwh),0.0
+Bretagne,53,01/01/2012,Production de Biométhane (Mwh),0.0
+Bretagne,53,01/01/2013,Production de Biométhane (Mwh),0.0
+Bretagne,53,01/01/2014,Production de Biométhane (Mwh),0.0
+Bretagne,53,01/01/2015,Production de Biométhane (Mwh),1265.766
+Bretagne,53,01/01/2016,Production de Biométhane (Mwh),5677.477
+Bretagne,53,01/01/2017,Production de Biométhane (Mwh),24590.09
+Bretagne,53,01/01/2018,Production de Biométhane (Mwh),48549.73
+Bretagne,53,01/01/2019,Production de Biométhane (Mwh),109105.945
+Bretagne,53,01/01/2020,Production de Biométhane (Mwh),207759.009
+Bretagne,53,01/01/2021,Production de Biométhane (Mwh),349492.25200000004
+Bretagne,53,01/01/2022,Production de Biométhane (Mwh),534090.269
+Bretagne,53,01/01/2023,Production de Biométhane (Mwh),676863.877
+Bretagne,53,01/01/2024,Production de Biométhane (Mwh),842222.519
+Bretagne,53,01/01/2000,Production totale d'électricité (Mwh),832305.0
+Bretagne,53,01/01/2001,Production totale d'électricité (Mwh),901892.0
+Bretagne,53,01/01/2002,Production totale d'électricité (Mwh),880768.0
+Bretagne,53,01/01/2003,Production totale d'électricité (Mwh),859879.0
+Bretagne,53,01/01/2004,Production totale d'électricité (Mwh),834831.0
+Bretagne,53,01/01/2005,Production totale d'électricité (Mwh),954527.0
+Bretagne,53,01/01/2006,Production totale d'électricité (Mwh),1045331.0
+Bretagne,53,01/01/2007,Production totale d'électricité (Mwh),1307143.0
+Bretagne,53,01/01/2008,Production totale d'électricité (Mwh),1370282.0
+Bretagne,53,01/01/2009,Production totale d'électricité (Mwh),1523993.0
+Bretagne,53,01/01/2010,Production totale d'électricité (Mwh),1874887.0
+Bretagne,53,01/01/2011,Production totale d'électricité (Mwh),2201366.0
+Bretagne,53,01/01/2012,Production totale d'électricité (Mwh),2380441.0
+Bretagne,53,01/01/2013,Production totale d'électricité (Mwh),2520995.0
+Bretagne,53,01/01/2014,Production totale d'électricité (Mwh),2765022.0
+Bretagne,53,01/01/2015,Production totale d'électricité (Mwh),2986171.0
+Bretagne,53,01/01/2016,Production totale d'électricité (Mwh),3248816.0
+Bretagne,53,01/01/2017,Production totale d'électricité (Mwh),3352179.0
+Bretagne,53,01/01/2018,Production totale d'électricité (Mwh),3782981.0
+Bretagne,53,01/01/2019,Production totale d'électricité (Mwh),4058045.0
+Bretagne,53,01/01/2020,Production totale d'électricité (Mwh),4456657.0
+Bretagne,53,01/01/2021,Production totale d'électricité (Mwh),4335767.0
+Bretagne,53,01/01/2022,Production totale d'électricité (Mwh),7210574.0
+Bretagne,53,01/01/2023,Production totale d'électricité (Mwh),6654384.0
+Bretagne,53,01/01/2024,Production totale d'électricité (Mwh),6666195.0
+Bretagne,53,01/01/2000,Production totale de chaleur (Mwh),3887407.0
+Bretagne,53,01/01/2001,Production totale de chaleur (Mwh),3933239.0
+Bretagne,53,01/01/2002,Production totale de chaleur (Mwh),3641173.0
+Bretagne,53,01/01/2003,Production totale de chaleur (Mwh),3923249.0
+Bretagne,53,01/01/2004,Production totale de chaleur (Mwh),4038068.0
+Bretagne,53,01/01/2005,Production totale de chaleur (Mwh),4042641.0
+Bretagne,53,01/01/2006,Production totale de chaleur (Mwh),4397581.0
+Bretagne,53,01/01/2007,Production totale de chaleur (Mwh),4239164.0
+Bretagne,53,01/01/2008,Production totale de chaleur (Mwh),4644915.0
+Bretagne,53,01/01/2009,Production totale de chaleur (Mwh),4879575.0
+Bretagne,53,01/01/2010,Production totale de chaleur (Mwh),5539791.0
+Bretagne,53,01/01/2011,Production totale de chaleur (Mwh),4701203.0
+Bretagne,53,01/01/2012,Production totale de chaleur (Mwh),5569920.0
+Bretagne,53,01/01/2013,Production totale de chaleur (Mwh),5915811.0
+Bretagne,53,01/01/2014,Production totale de chaleur (Mwh),5603235.0
+Bretagne,53,01/01/2015,Production totale de chaleur (Mwh),6539949.0
+Bretagne,53,01/01/2016,Production totale de chaleur (Mwh),7808843.0
+Bretagne,53,01/01/2017,Production totale de chaleur (Mwh),7797185.0
+Bretagne,53,01/01/2018,Production totale de chaleur (Mwh),8212102.0
+Bretagne,53,01/01/2019,Production totale de chaleur (Mwh),8430280.0
+Bretagne,53,01/01/2020,Production totale de chaleur (Mwh),8138708.0
+Bretagne,53,01/01/2021,Production totale de chaleur (Mwh),9319970.0
+Bretagne,53,01/01/2022,Production totale de chaleur (Mwh),9267381.0
+Bretagne,53,01/01/2023,Production totale de chaleur (Mwh),9685163.0
+Bretagne,53,01/01/2024,Production totale de chaleur (Mwh),10216980.0
+Bretagne,53,01/01/2000,Production totale d'énergie (Mwh),4719712.0
+Bretagne,53,01/01/2001,Production totale d'énergie (Mwh),4835131.0
+Bretagne,53,01/01/2002,Production totale d'énergie (Mwh),4521941.0
+Bretagne,53,01/01/2003,Production totale d'énergie (Mwh),4783128.0
+Bretagne,53,01/01/2004,Production totale d'énergie (Mwh),4872899.0
+Bretagne,53,01/01/2005,Production totale d'énergie (Mwh),4997168.0
+Bretagne,53,01/01/2006,Production totale d'énergie (Mwh),5442912.0
+Bretagne,53,01/01/2007,Production totale d'énergie (Mwh),5546307.0
+Bretagne,53,01/01/2008,Production totale d'énergie (Mwh),6015197.0
+Bretagne,53,01/01/2009,Production totale d'énergie (Mwh),6403568.0
+Bretagne,53,01/01/2010,Production totale d'énergie (Mwh),7414678.0
+Bretagne,53,01/01/2011,Production totale d'énergie (Mwh),6902569.0
+Bretagne,53,01/01/2012,Production totale d'énergie (Mwh),7950361.0
+Bretagne,53,01/01/2013,Production totale d'énergie (Mwh),8436806.0
+Bretagne,53,01/01/2014,Production totale d'énergie (Mwh),8368257.0
+Bretagne,53,01/01/2015,Production totale d'énergie (Mwh),9527385.766
+Bretagne,53,01/01/2016,Production totale d'énergie (Mwh),11063336.477
+Bretagne,53,01/01/2017,Production totale d'énergie (Mwh),11173954.09
+Bretagne,53,01/01/2018,Production totale d'énergie (Mwh),12043632.73
+Bretagne,53,01/01/2019,Production totale d'énergie (Mwh),12597430.945
+Bretagne,53,01/01/2020,Production totale d'énergie (Mwh),12803124.009
+Bretagne,53,01/01/2021,Production totale d'énergie (Mwh),14005229.252
+Bretagne,53,01/01/2022,Production totale d'énergie (Mwh),17012045.269
+Bretagne,53,01/01/2023,Production totale d'énergie (Mwh),17016410.877
+Bretagne,53,01/01/2024,Production totale d'énergie (Mwh),17725397.519
+Bretagne,53,01/01/2000,Production totale d'électricité renouvelable (Mwh),662454.0
+Bretagne,53,01/01/2001,Production totale d'électricité renouvelable (Mwh),712979.0
+Bretagne,53,01/01/2002,Production totale d'électricité renouvelable (Mwh),698854.5
+Bretagne,53,01/01/2003,Production totale d'électricité renouvelable (Mwh),677636.0
+Bretagne,53,01/01/2004,Production totale d'électricité renouvelable (Mwh),667827.5
+Bretagne,53,01/01/2005,Production totale d'électricité renouvelable (Mwh),763895.5
+Bretagne,53,01/01/2006,Production totale d'électricité renouvelable (Mwh),868402.0
+Bretagne,53,01/01/2007,Production totale d'électricité renouvelable (Mwh),1079190.0
+Bretagne,53,01/01/2008,Production totale d'électricité renouvelable (Mwh),1173833.0
+Bretagne,53,01/01/2009,Production totale d'électricité renouvelable (Mwh),1336107.0
+Bretagne,53,01/01/2010,Production totale d'électricité renouvelable (Mwh),1633596.5
+Bretagne,53,01/01/2011,Production totale d'électricité renouvelable (Mwh),1848490.5
+Bretagne,53,01/01/2012,Production totale d'électricité renouvelable (Mwh),2002264.5
+Bretagne,53,01/01/2013,Production totale d'électricité renouvelable (Mwh),2130966.5
+Bretagne,53,01/01/2014,Production totale d'électricité renouvelable (Mwh),2332473.0
+Bretagne,53,01/01/2015,Production totale d'électricité renouvelable (Mwh),2439938.5
+Bretagne,53,01/01/2016,Production totale d'électricité renouvelable (Mwh),2559822.5
+Bretagne,53,01/01/2017,Production totale d'électricité renouvelable (Mwh),2571220.5
+Bretagne,53,01/01/2018,Production totale d'électricité renouvelable (Mwh),2927568.0
+Bretagne,53,01/01/2019,Production totale d'électricité renouvelable (Mwh),3102794.0
+Bretagne,53,01/01/2020,Production totale d'électricité renouvelable (Mwh),3474497.5
+Bretagne,53,01/01/2021,Production totale d'électricité renouvelable (Mwh),3231482.5
+Bretagne,53,01/01/2022,Production totale d'électricité renouvelable (Mwh),3386629.0
+Bretagne,53,01/01/2023,Production totale d'électricité renouvelable (Mwh),4000083.0
+Bretagne,53,01/01/2024,Production totale d'électricité renouvelable (Mwh),4981022.5
+Bretagne,53,01/01/2000,Production totale de chaleur renouvelable (Mwh),3620037.5
+Bretagne,53,01/01/2001,Production totale de chaleur renouvelable (Mwh),3659647.0
+Bretagne,53,01/01/2002,Production totale de chaleur renouvelable (Mwh),3371834.5
+Bretagne,53,01/01/2003,Production totale de chaleur renouvelable (Mwh),3662297.0
+Bretagne,53,01/01/2004,Production totale de chaleur renouvelable (Mwh),3757763.0
+Bretagne,53,01/01/2005,Production totale de chaleur renouvelable (Mwh),3783623.0
+Bretagne,53,01/01/2006,Production totale de chaleur renouvelable (Mwh),4096782.0
+Bretagne,53,01/01/2007,Production totale de chaleur renouvelable (Mwh),3936132.0
+Bretagne,53,01/01/2008,Production totale de chaleur renouvelable (Mwh),4328300.0
+Bretagne,53,01/01/2009,Production totale de chaleur renouvelable (Mwh),4556631.0
+Bretagne,53,01/01/2010,Production totale de chaleur renouvelable (Mwh),5146486.0
+Bretagne,53,01/01/2011,Production totale de chaleur renouvelable (Mwh),4245973.0
+Bretagne,53,01/01/2012,Production totale de chaleur renouvelable (Mwh),5079928.5
+Bretagne,53,01/01/2013,Production totale de chaleur renouvelable (Mwh),5374985.5
+Bretagne,53,01/01/2014,Production totale de chaleur renouvelable (Mwh),5070914.0
+Bretagne,53,01/01/2015,Production totale de chaleur renouvelable (Mwh),5869885.0
+Bretagne,53,01/01/2016,Production totale de chaleur renouvelable (Mwh),6933124.5
+Bretagne,53,01/01/2017,Production totale de chaleur renouvelable (Mwh),6741214.5
+Bretagne,53,01/01/2018,Production totale de chaleur renouvelable (Mwh),7044000.5
+Bretagne,53,01/01/2019,Production totale de chaleur renouvelable (Mwh),7215867.0
+Bretagne,53,01/01/2020,Production totale de chaleur renouvelable (Mwh),6919312.5
+Bretagne,53,01/01/2021,Production totale de chaleur renouvelable (Mwh),7981153.0
+Bretagne,53,01/01/2022,Production totale de chaleur renouvelable (Mwh),7673712.5
+Bretagne,53,01/01/2023,Production totale de chaleur renouvelable (Mwh),8214295.0
+Bretagne,53,01/01/2024,Production totale de chaleur renouvelable (Mwh),8821883.0
+Bretagne,53,01/01/2000,Production totale d'énergie renouvelable (Mwh),4282491.5
+Bretagne,53,01/01/2001,Production totale d'énergie renouvelable (Mwh),4372626.0
+Bretagne,53,01/01/2002,Production totale d'énergie renouvelable (Mwh),4070689.0
+Bretagne,53,01/01/2003,Production totale d'énergie renouvelable (Mwh),4339933.0
+Bretagne,53,01/01/2004,Production totale d'énergie renouvelable (Mwh),4425590.5
+Bretagne,53,01/01/2005,Production totale d'énergie renouvelable (Mwh),4547518.5
+Bretagne,53,01/01/2006,Production totale d'énergie renouvelable (Mwh),4965184.0
+Bretagne,53,01/01/2007,Production totale d'énergie renouvelable (Mwh),5015322.0
+Bretagne,53,01/01/2008,Production totale d'énergie renouvelable (Mwh),5502133.0
+Bretagne,53,01/01/2009,Production totale d'énergie renouvelable (Mwh),5892738.0
+Bretagne,53,01/01/2010,Production totale d'énergie renouvelable (Mwh),6780082.5
+Bretagne,53,01/01/2011,Production totale d'énergie renouvelable (Mwh),6094463.5
+Bretagne,53,01/01/2012,Production totale d'énergie renouvelable (Mwh),7082193.0
+Bretagne,53,01/01/2013,Production totale d'énergie renouvelable (Mwh),7505952.0
+Bretagne,53,01/01/2014,Production totale d'énergie renouvelable (Mwh),7403387.0
+Bretagne,53,01/01/2015,Production totale d'énergie renouvelable (Mwh),8311089.266
+Bretagne,53,01/01/2016,Production totale d'énergie renouvelable (Mwh),9498624.477
+Bretagne,53,01/01/2017,Production totale d'énergie renouvelable (Mwh),9337025.09
+Bretagne,53,01/01/2018,Production totale d'énergie renouvelable (Mwh),10020118.23
+Bretagne,53,01/01/2019,Production totale d'énergie renouvelable (Mwh),10427766.945
+Bretagne,53,01/01/2020,Production totale d'énergie renouvelable (Mwh),10601569.009
+Bretagne,53,01/01/2021,Production totale d'énergie renouvelable (Mwh),11562127.752
+Bretagne,53,01/01/2022,Production totale d'énergie renouvelable (Mwh),11594431.769
+Bretagne,53,01/01/2023,Production totale d'énergie renouvelable (Mwh),12891241.877
+Bretagne,53,01/01/2024,Production totale d'énergie renouvelable (Mwh),14645128.019
+Bretagne,53,01/01/2000,Part de production d'énergie renouvelable sur la production totale d'énergie (%),99.30392678868552
+Bretagne,53,01/01/2001,Part de production d'énergie renouvelable sur la production totale d'énergie (%),99.30533277870217
+Bretagne,53,01/01/2002,Part de production d'énergie renouvelable sur la production totale d'énergie (%),99.29551580698836
+Bretagne,53,01/01/2003,Part de production d'énergie renouvelable sur la production totale d'énergie (%),99.30902662229616
+Bretagne,53,01/01/2004,Part de production d'énergie renouvelable sur la production totale d'énergie (%),99.28578202995008
+Bretagne,53,01/01/2005,Part de production d'énergie renouvelable sur la production totale d'énergie (%),99.28017470881863
+Bretagne,53,01/01/2006,Part de production d'énergie renouvelable sur la production totale d'énergie (%),99.27142262895175
+Bretagne,53,01/01/2007,Part de production d'énergie renouvelable sur la production totale d'énergie (%),99.19686356073213
+Bretagne,53,01/01/2008,Part de production d'énergie renouvelable sur la production totale d'énergie (%),99.24877703826957
+Bretagne,53,01/01/2009,Part de production d'énergie renouvelable sur la production totale d'énergie (%),99.26002495840264
+Bretagne,53,01/01/2010,Part de production d'énergie renouvelable sur la production totale d'énergie (%),99.18501663893512
+Bretagne,53,01/01/2011,Part de production d'énergie renouvelable sur la production totale d'énergie (%),98.7489683860233
+Bretagne,53,01/01/2012,Part de production d'énergie renouvelable sur la production totale d'énergie (%),98.76884359400998
+Bretagne,53,01/01/2013,Part de production d'énergie renouvelable sur la production totale d'énergie (%),98.6945840266223
+Bretagne,53,01/01/2014,Part de production d'énergie renouvelable sur la production totale d'énergie (%),98.47678868552411
+Bretagne,53,01/01/2015,Part de production d'énergie renouvelable sur la production totale d'énergie (%),98.0266638935108
+Bretagne,53,01/01/2016,Part de production d'énergie renouvelable sur la production totale d'énergie (%),97.42032445923462
+Bretagne,53,01/01/2017,Part de production d'énergie renouvelable sur la production totale d'énergie (%),96.91111480865224
+Bretagne,53,01/01/2018,Part de production d'énergie renouvelable sur la production totale d'énergie (%),96.74194675540764
+Bretagne,53,01/01/2019,Part de production d'énergie renouvelable sur la production totale d'énergie (%),96.6440599001664
+Bretagne,53,01/01/2020,Part de production d'énergie renouvelable sur la production totale d'énergie (%),96.59054908485857
+Bretagne,53,01/01/2021,Part de production d'énergie renouvelable sur la production totale d'énergie (%),96.579309484193
+Bretagne,53,01/01/2022,Part de production d'énergie renouvelable sur la production totale d'énergie (%),96.3405241264559
+Bretagne,53,01/01/2023,Part de production d'énergie renouvelable sur la production totale d'énergie (%),96.63905158069883
+Bretagne,53,01/01/2024,Part de production d'énergie renouvelable sur la production totale d'énergie (%),96.69256239600664
+Bretagne,53,01/01/2000,Part de production d'électricité renouvelable sur la production totale d'électricité (%),59.03717391304348
+Bretagne,53,01/01/2001,Part de production d'électricité renouvelable sur la production totale d'électricité (%),59.0358695652174
+Bretagne,53,01/01/2002,Part de production d'électricité renouvelable sur la production totale d'électricité (%),62.2576
+Bretagne,53,01/01/2003,Part de production d'électricité renouvelable sur la production totale d'électricité (%),63.61596153846154
+Bretagne,53,01/01/2004,Part de production d'électricité renouvelable sur la production totale d'électricité (%),66.71456140350877
+Bretagne,53,01/01/2005,Part de production d'électricité renouvelable sur la production totale d'électricité (%),70.65045454545455
+Bretagne,53,01/01/2006,Part de production d'électricité renouvelable sur la production totale d'électricité (%),73.64311688311689
+Bretagne,53,01/01/2007,Part de production d'électricité renouvelable sur la production totale d'électricité (%),76.74076923076923
+Bretagne,53,01/01/2008,Part de production d'électricité renouvelable sur la production totale d'électricité (%),80.8919266055046
+Bretagne,53,01/01/2009,Part de production d'électricité renouvelable sur la production totale d'électricité (%),86.93340136054421
+Bretagne,53,01/01/2010,Part de production d'électricité renouvelable sur la production totale d'électricité (%),92.3530739299611
+Bretagne,53,01/01/2011,Part de production d'électricité renouvelable sur la production totale d'électricité (%),93.15069135802467
+Bretagne,53,01/01/2012,Part de production d'électricité renouvelable sur la production totale d'électricité (%),93.9123111111111
+Bretagne,53,01/01/2013,Part de production d'électricité renouvelable sur la production totale d'électricité (%),94.45028985507248
+Bretagne,53,01/01/2014,Part de production d'électricité renouvelable sur la production totale d'électricité (%),94.34290384615385
+Bretagne,53,01/01/2015,Part de production d'électricité renouvelable sur la production totale d'électricité (%),92.2169685767098
+Bretagne,53,01/01/2016,Part de production d'électricité renouvelable sur la production totale d'électricité (%),89.85370106761566
+Bretagne,53,01/01/2017,Part de production d'électricité renouvelable sur la production totale d'électricité (%),93.2267330210773
+Bretagne,53,01/01/2018,Part de production d'électricité renouvelable sur la production totale d'électricité (%),93.4383181818182
+Bretagne,53,01/01/2019,Part de production d'électricité renouvelable sur la production totale d'électricité (%),93.37800668151448
+Bretagne,53,01/01/2020,Part de production d'électricité renouvelable sur la production totale d'électricité (%),93.367125813449
+Bretagne,53,01/01/2021,Part de production d'électricité renouvelable sur la production totale d'électricité (%),93.545666316894
+Bretagne,53,01/01/2022,Part de production d'électricité renouvelable sur la production totale d'électricité (%),93.46525628140704
+Bretagne,53,01/01/2023,Part de production d'électricité renouvelable sur la production totale d'électricité (%),94.03161443494776
+Bretagne,53,01/01/2024,Part de production d'électricité renouvelable sur la production totale d'électricité (%),94.3486496350365
+Bretagne,53,01/01/2000,Part de production de chaleur renouvelable sur la production totale de chaleur (%),99.66853577371047
+Bretagne,53,01/01/2001,Part de production de chaleur renouvelable sur la production totale de chaleur (%),99.66965890183027
+Bretagne,53,01/01/2002,Part de production de chaleur renouvelable sur la production totale de chaleur (%),99.66710482529118
+Bretagne,53,01/01/2003,Part de production de chaleur renouvelable sur la production totale de chaleur (%),99.67160565723796
+Bretagne,53,01/01/2004,Part de production de chaleur renouvelable sur la production totale de chaleur (%),99.61338602329452
+Bretagne,53,01/01/2005,Part de production de chaleur renouvelable sur la production totale de chaleur (%),99.61631447587354
+Bretagne,53,01/01/2006,Part de production de chaleur renouvelable sur la production totale de chaleur (%),99.56402662229615
+Bretagne,53,01/01/2007,Part de production de chaleur renouvelable sur la production totale de chaleur (%),99.55846089850247
+Bretagne,53,01/01/2008,Part de production de chaleur renouvelable sur la production totale de chaleur (%),99.57209650582362
+Bretagne,53,01/01/2009,Part de production de chaleur renouvelable sur la production totale de chaleur (%),99.5794176372712
+Bretagne,53,01/01/2010,Part de production de chaleur renouvelable sur la production totale de chaleur (%),99.51301164725456
+Bretagne,53,01/01/2011,Part de production de chaleur renouvelable sur la production totale de chaleur (%),99.16657237936772
+Bretagne,53,01/01/2012,Part de production de chaleur renouvelable sur la production totale de chaleur (%),99.213078202995
+Bretagne,53,01/01/2013,Part de production de chaleur renouvelable sur la production totale de chaleur (%),99.1513560732113
+Bretagne,53,01/01/2014,Part de production de chaleur renouvelable sur la production totale de chaleur (%),98.9673211314476
+Bretagne,53,01/01/2015,Part de production de chaleur renouvelable sur la production totale de chaleur (%),98.62747088186356
+Bretagne,53,01/01/2016,Part de production de chaleur renouvelable sur la production totale de chaleur (%),98.14408485856906
+Bretagne,53,01/01/2017,Part de production de chaleur renouvelable sur la production totale de chaleur (%),97.66114808652246
+Bretagne,53,01/01/2018,Part de production de chaleur renouvelable sur la production totale de chaleur (%),97.49955074875209
+Bretagne,53,01/01/2019,Part de production de chaleur renouvelable sur la production totale de chaleur (%),97.4144925124792
+Bretagne,53,01/01/2020,Part de production de chaleur renouvelable sur la production totale de chaleur (%),97.36613976705492
+Bretagne,53,01/01/2021,Part de production de chaleur renouvelable sur la production totale de chaleur (%),97.40448419301164
+Bretagne,53,01/01/2022,Part de production de chaleur renouvelable sur la production totale de chaleur (%),97.17045757071548
+Bretagne,53,01/01/2023,Part de production de chaleur renouvelable sur la production totale de chaleur (%),97.41822795341098
+Bretagne,53,01/01/2024,Part de production de chaleur renouvelable sur la production totale de chaleur (%),97.49271214642262
+Bretagne,53,01/01/2022,Nombre de ménages en précarité énergétique logement (par niveau de vie),167495.0
+Bretagne,53,01/01/2022,Nombre de ménages en précarité énergétique mobilité (par niveau de vie),150646.0
+Bretagne,53,01/01/2022,Part des ménages en précarité énergétique logement (par niveau de vie),5.3338308457711445
+Bretagne,53,01/01/2022,Part des ménages en précarité énergétique mobilité (par niveau de vie),8.685406301824212
+Bretagne,53,01/01/2010,Nombre d'exploitations agricoles sur le territoire,34447.0
+Bretagne,53,01/01/2020,Nombre d'exploitations agricoles sur le territoire,26347.0
+Bretagne,53,01/01/2011,Nombre de logements crées par an,23658.0
+Bretagne,53,01/01/2012,Nombre de logements crées par an,20738.0
+Bretagne,53,01/01/2013,Nombre de logements crées par an,18546.0
+Bretagne,53,01/01/2014,Nombre de logements crées par an,15861.0
+Bretagne,53,01/01/2015,Nombre de logements crées par an,17025.0
+Bretagne,53,01/01/2016,Nombre de logements crées par an,18206.0
+Bretagne,53,01/01/2017,Nombre de logements crées par an,22401.0
+Bretagne,53,01/01/2018,Nombre de logements crées par an,22792.0
+Bretagne,53,01/01/2019,Nombre de logements crées par an,19761.0
+Bretagne,53,01/01/2020,Nombre de logements crées par an,21457.0
+Bretagne,53,01/01/2021,Nombre de logements crées par an,25459.0
+Bretagne,53,01/01/2022,Nombre de logements crées par an,24149.0
+Bretagne,53,01/01/2023,Nombre de logements crées par an,17959.0
+Bretagne,53,01/01/2011,Nombre de logements autorisés par an,26616.0
+Bretagne,53,01/01/2012,Nombre de logements autorisés par an,23827.0
+Bretagne,53,01/01/2013,Nombre de logements autorisés par an,20287.0
+Bretagne,53,01/01/2014,Nombre de logements autorisés par an,16480.0
+Bretagne,53,01/01/2015,Nombre de logements autorisés par an,18156.0
+Bretagne,53,01/01/2016,Nombre de logements autorisés par an,24207.0
+Bretagne,53,01/01/2017,Nombre de logements autorisés par an,25602.0
+Bretagne,53,01/01/2018,Nombre de logements autorisés par an,24078.0
+Bretagne,53,01/01/2019,Nombre de logements autorisés par an,24155.0
+Bretagne,53,01/01/2020,Nombre de logements autorisés par an,24509.0
+Bretagne,53,01/01/2021,Nombre de logements autorisés par an,33179.0
+Bretagne,53,01/01/2022,Nombre de logements autorisés par an,29096.0
+Bretagne,53,01/01/2023,Nombre de logements autorisés par an,22760.0
+Bretagne,53,01/01/2024,Nombre de logements autorisés par an,22219.0
+Bretagne,53,01/01/2022,Surface totale du territoire (ha),2747070.0
+Bretagne,53,01/01/2010,Surface agricole utile du territoire (ha),1638228.82
+Bretagne,53,01/01/2020,Surface agricole utile du territoire (ha),1624251.77
+Bretagne,53,01/01/2006,Nombre d'habitants du territoire,3094534.0
+Bretagne,53,01/01/2007,Nombre d'habitants du territoire,3120288.0
+Bretagne,53,01/01/2008,Nombre d'habitants du territoire,3149701.0
+Bretagne,53,01/01/2009,Nombre d'habitants du territoire,3175064.0
+Bretagne,53,01/01/2010,Nombre d'habitants du territoire,3199066.0
+Bretagne,53,01/01/2011,Nombre d'habitants du territoire,3217767.0
+Bretagne,53,01/01/2012,Nombre d'habitants du territoire,3237097.0
+Bretagne,53,01/01/2013,Nombre d'habitants du territoire,3258707.0
+Bretagne,53,01/01/2014,Nombre d'habitants du territoire,3276543.0
+Bretagne,53,01/01/2015,Nombre d'habitants du territoire,3293850.0
+Bretagne,53,01/01/2016,Nombre d'habitants du territoire,3306529.0
+Bretagne,53,01/01/2017,Nombre d'habitants du territoire,3318904.0
+Bretagne,53,01/01/2018,Nombre d'habitants du territoire,3335414.0
+Bretagne,53,01/01/2019,Nombre d'habitants du territoire,3354854.0
+Bretagne,53,01/01/2020,Nombre d'habitants du territoire,3373835.0
+Bretagne,53,01/01/2021,Nombre d'habitants du territoire,3394567.0
+Bretagne,53,01/01/2022,Nombre d'habitants du territoire,3422845.0
+Bretagne,53,01/01/2023,Nombre d'habitants du territoire,3449370.0
+Bretagne,53,01/01/2024,Nombre d'habitants du territoire,3449370.0
+Bretagne,53,01/01/2025,Nombre d'habitants du territoire,3449370.0
+Bretagne,53,01/01/2018,Séquestration nette de CO2 par type de sols du territoire(TeqCO2 an),2169646.5910063423
+Bretagne,53,01/01/2018,Part de chaleur décarbonée produite (ENR&R = renouvelable et de récupération) dans les réseaux de chaleur(%),1496.9243895227771
+Bretagne,53,01/01/2019,Part de chaleur décarbonée produite (ENR&R = renouvelable et de récupération) dans les réseaux de chaleur(%),1711.735684952115
+Bretagne,53,01/01/2020,Part de chaleur décarbonée produite (ENR&R = renouvelable et de récupération) dans les réseaux de chaleur(%),1639.4483343883285
+Bretagne,53,01/01/2021,Part de chaleur décarbonée produite (ENR&R = renouvelable et de récupération) dans les réseaux de chaleur(%),2191.7210416522034
+Bretagne,53,01/01/2022,Part de chaleur décarbonée produite (ENR&R = renouvelable et de récupération) dans les réseaux de chaleur(%),2553.901638959603
+Bretagne,53,01/01/2023,Part de chaleur décarbonée produite (ENR&R = renouvelable et de récupération) dans les réseaux de chaleur(%),3159.1347926259523
+Bretagne,53,01/01/2024,Part de chaleur décarbonée produite (ENR&R = renouvelable et de récupération) dans les réseaux de chaleur(%),3458.957469859376
+Bretagne,53,01/01/2011,Part de nouveaux logements créés collectivement sur total autorisés(%),71095.76386256586
+Bretagne,53,01/01/2012,Part de nouveaux logements créés collectivement sur total autorisés(%),54354.30591188189
+Bretagne,53,01/01/2013,Part de nouveaux logements créés collectivement sur total autorisés(%),46753.54440384938
+Bretagne,53,01/01/2014,Part de nouveaux logements créés collectivement sur total autorisés(%),41284.37005681795
+Bretagne,53,01/01/2015,Part de nouveaux logements créés collectivement sur total autorisés(%),39025.979281402855
+Bretagne,53,01/01/2016,Part de nouveaux logements créés collectivement sur total autorisés(%),30274.32359344358
+Bretagne,53,01/01/2017,Part de nouveaux logements créés collectivement sur total autorisés(%),42291.48919457815
+Bretagne,53,01/01/2018,Part de nouveaux logements créés collectivement sur total autorisés(%),31747.576430045683
+Bretagne,53,01/01/2019,Part de nouveaux logements créés collectivement sur total autorisés(%),49155.72550929256
+Bretagne,53,01/01/2020,Part de nouveaux logements créés collectivement sur total autorisés(%),48457.18442627181
+Bretagne,53,01/01/2021,Part de nouveaux logements créés collectivement sur total autorisés(%),48554.37049503804
+Bretagne,53,01/01/2022,Part de nouveaux logements créés collectivement sur total autorisés(%),52723.722215301765
+Bretagne,53,01/01/2023,Part de nouveaux logements créés collectivement sur total autorisés(%),57642.51852849418
+Bretagne,53,01/01/2008,Prélèvements d'eau sur le territoire(m3),277157663.0
+Bretagne,53,01/01/2009,Prélèvements d'eau sur le territoire(m3),267629398.6
+Bretagne,53,01/01/2010,Prélèvements d'eau sur le territoire(m3),277960091.4
+Bretagne,53,01/01/2011,Prélèvements d'eau sur le territoire(m3),272849770.688
+Bretagne,53,01/01/2012,Prélèvements d'eau sur le territoire(m3),1447482808.0
+Bretagne,53,01/01/2013,Prélèvements d'eau sur le territoire(m3),1775380786.0
+Bretagne,53,01/01/2014,Prélèvements d'eau sur le territoire(m3),2132379768.0
+Bretagne,53,01/01/2015,Prélèvements d'eau sur le territoire(m3),1948411523.0
+Bretagne,53,01/01/2016,Prélèvements d'eau sur le territoire(m3),1822512885.0
+Bretagne,53,01/01/2017,Prélèvements d'eau sur le territoire(m3),1315181201.0
+Bretagne,53,01/01/2018,Prélèvements d'eau sur le territoire(m3),291472491.0
+Bretagne,53,01/01/2019,Prélèvements d'eau sur le territoire(m3),1954842640.0
+Bretagne,53,01/01/2020,Prélèvements d'eau sur le territoire(m3),2095967754.0
+Bretagne,53,01/01/2021,Prélèvements d'eau sur le territoire(m3),1986109727.0
+Bretagne,53,01/01/2018,Volume de chaleur livrée par les réseaux de chaleur (TWh),0.5778880000000001
+Bretagne,53,01/01/2019,Volume de chaleur livrée par les réseaux de chaleur (TWh),0.703369
+Bretagne,53,01/01/2020,Volume de chaleur livrée par les réseaux de chaleur (TWh),0.652386
+Bretagne,53,01/01/2021,Volume de chaleur livrée par les réseaux de chaleur (TWh),0.806322
+Bretagne,53,01/01/2022,Volume de chaleur livrée par les réseaux de chaleur (TWh),0.750279
+Bretagne,53,01/01/2023,Volume de chaleur livrée par les réseaux de chaleur (TWh),0.769165
+Bretagne,53,01/01/2024,Volume de chaleur livrée par les réseaux de chaleur (TWh),0.905373975
+Bretagne,53,01/01/2018,Surface en agriculture biologique (certifiées bio ou en conversion) (ha),125770.442766
+Bretagne,53,01/01/2019,Surface en agriculture biologique (certifiées bio ou en conversion) (ha),140691.191066
+Bretagne,53,01/01/2020,Surface en agriculture biologique (certifiées bio ou en conversion) (ha),151655.943466
+Bretagne,53,01/01/2021,Surface en agriculture biologique (certifiées bio ou en conversion) (ha),163952.806666
+Bretagne,53,01/01/2022,Surface en agriculture biologique (certifiées bio ou en conversion) (ha),167928.271024
+Bretagne,53,01/01/2023,Surface en agriculture biologique (certifiées bio ou en conversion) (ha),165717.140949
+Bretagne,53,01/01/2024,Surface en agriculture biologique (certifiées bio ou en conversion) (ha),165806.70381151675
+Bretagne,53,01/01/2012,Nombre de ménages du territoire,1447839.95547
+Bretagne,53,01/01/2017,Nombre de ménages du territoire,1518397.11612
+Bretagne,53,01/01/2023,Nombre de ménages du territoire,1630574.62422
